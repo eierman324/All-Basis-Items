@@ -1,0 +1,3332 @@
+## ITEMS
+acacia_boat
+acacia_button
+acacia_chest_boat
+acacia_door
+acacia_fence
+acacia_fence_gate
+acacia_hanging_sign
+acacia_leaves
+acacia_log
+acacia_planks
+acacia_pressure_plate
+acacia_sapling
+acacia_shelf
+acacia_sign
+acacia_slab
+acacia_stairs
+acacia_trapdoor
+acacia_wood
+activator_rail
+air
+allay_spawn_egg
+allium
+amethyst_block
+amethyst_cluster
+amethyst_shard
+ancient_debris
+andesite
+andesite_slab
+andesite_stairs
+andesite_wall
+angler_pottery_sherd
+anvil
+apple
+archer_pottery_sherd
+armadillo_scute
+armadillo_spawn_egg
+armor_stand
+arms_up_pottery_sherd
+arrow
+axolotl_bucket
+axolotl_spawn_egg
+azalea
+azalea_leaves
+azure_bluet
+baked_potato
+bamboo
+bamboo_block
+bamboo_button
+bamboo_chest_raft
+bamboo_door
+bamboo_fence
+bamboo_fence_gate
+bamboo_hanging_sign
+bamboo_mosaic
+bamboo_mosaic_slab
+bamboo_mosaic_stairs
+bamboo_planks
+bamboo_pressure_plate
+bamboo_raft
+bamboo_shelf
+bamboo_sign
+bamboo_slab
+bamboo_stairs
+bamboo_trapdoor
+barrel
+barrier
+basalt
+bat_spawn_egg
+beacon
+bedrock
+bee_nest
+bee_spawn_egg
+beef
+beehive
+beetroot
+beetroot_seeds
+beetroot_soup
+bell
+big_dripleaf
+birch_boat
+birch_button
+birch_chest_boat
+birch_door
+birch_fence
+birch_fence_gate
+birch_hanging_sign
+birch_leaves
+birch_log
+birch_planks
+birch_pressure_plate
+birch_sapling
+birch_shelf
+birch_sign
+birch_slab
+birch_stairs
+birch_trapdoor
+birch_wood
+black_banner
+black_bed
+black_bundle
+black_candle
+black_carpet
+black_concrete
+black_concrete_powder
+black_dye
+black_glazed_terracotta
+black_harness
+black_shulker_box
+black_stained_glass
+black_stained_glass_pane
+black_terracotta
+black_wool
+blackstone
+blackstone_slab
+blackstone_stairs
+blackstone_wall
+blade_pottery_sherd
+blast_furnace
+blaze_powder
+blaze_rod
+blaze_spawn_egg
+blue_banner
+blue_bed
+blue_bundle
+blue_candle
+blue_carpet
+blue_concrete
+blue_concrete_powder
+blue_dye
+blue_egg
+blue_glazed_terracotta
+blue_harness
+blue_ice
+blue_orchid
+blue_shulker_box
+blue_stained_glass
+blue_stained_glass_pane
+blue_terracotta
+blue_wool
+bogged_spawn_egg
+bolt_armor_trim_smithing_template
+bone
+bone_block
+bone_meal
+book
+bookshelf
+bordure_indented_banner_pattern
+bow
+bowl
+brain_coral
+brain_coral_block
+brain_coral_fan
+bread
+breeze_rod
+breeze_spawn_egg
+brewer_pottery_sherd
+brewing_stand
+brick
+brick_slab
+brick_stairs
+brick_wall
+bricks
+brown_banner
+brown_bed
+brown_bundle
+brown_candle
+brown_carpet
+brown_concrete
+brown_concrete_powder
+brown_dye
+brown_egg
+brown_glazed_terracotta
+brown_harness
+brown_mushroom
+brown_mushroom_block
+brown_shulker_box
+brown_stained_glass
+brown_stained_glass_pane
+brown_terracotta
+brown_wool
+brush
+bubble_coral
+bubble_coral_block
+bubble_coral_fan
+bucket
+budding_amethyst
+bundle
+burn_pottery_sherd
+bush
+cactus
+cactus_flower
+cake
+calcite
+calibrated_sculk_sensor
+camel_husk_spawn_egg
+camel_spawn_egg
+campfire
+candle
+carrot
+carrot_on_a_stick
+cartography_table
+carved_pumpkin
+cat_spawn_egg
+cauldron
+cave_spider_spawn_egg
+chain_command_block
+chainmail_boots
+chainmail_chestplate
+chainmail_helmet
+chainmail_leggings
+charcoal
+cherry_boat
+cherry_button
+cherry_chest_boat
+cherry_door
+cherry_fence
+cherry_fence_gate
+cherry_hanging_sign
+cherry_leaves
+cherry_log
+cherry_planks
+cherry_pressure_plate
+cherry_sapling
+cherry_shelf
+cherry_sign
+cherry_slab
+cherry_stairs
+cherry_trapdoor
+cherry_wood
+chest
+chest_minecart
+chicken
+chicken_spawn_egg
+chipped_anvil
+chiseled_bookshelf
+chiseled_cinnabar
+chiseled_copper
+chiseled_deepslate
+chiseled_nether_bricks
+chiseled_polished_blackstone
+chiseled_quartz_block
+chiseled_red_sandstone
+chiseled_resin_bricks
+chiseled_sandstone
+chiseled_stone_bricks
+chiseled_sulfur
+chiseled_tuff
+chiseled_tuff_bricks
+chorus_flower
+chorus_fruit
+chorus_plant
+cinnabar
+cinnabar_brick_slab
+cinnabar_brick_stairs
+cinnabar_brick_wall
+cinnabar_bricks
+cinnabar_slab
+cinnabar_stairs
+cinnabar_wall
+clay
+clay_ball
+clock
+closed_eyeblossom
+coal
+coal_block
+coal_ore
+coarse_dirt
+coast_armor_trim_smithing_template
+cobbled_deepslate
+cobbled_deepslate_slab
+cobbled_deepslate_stairs
+cobbled_deepslate_wall
+cobblestone
+cobblestone_slab
+cobblestone_stairs
+cobblestone_wall
+cobweb
+cocoa_beans
+cod
+cod_bucket
+cod_spawn_egg
+command_block
+command_block_minecart
+comparator
+compass
+composter
+conduit
+cooked_beef
+cooked_chicken
+cooked_cod
+cooked_mutton
+cooked_porkchop
+cooked_rabbit
+cooked_salmon
+cookie
+copper_axe
+copper_bars
+copper_block
+copper_boots
+copper_bulb
+copper_chain
+copper_chest
+copper_chestplate
+copper_door
+copper_golem_spawn_egg
+copper_golem_statue
+copper_grate
+copper_helmet
+copper_hoe
+copper_horse_armor
+copper_ingot
+copper_lantern
+copper_leggings
+copper_nautilus_armor
+copper_nugget
+copper_ore
+copper_pickaxe
+copper_shovel
+copper_spear
+copper_sword
+copper_torch
+copper_trapdoor
+cornflower
+cow_spawn_egg
+cracked_deepslate_bricks
+cracked_deepslate_tiles
+cracked_nether_bricks
+cracked_polished_blackstone_bricks
+cracked_stone_bricks
+crafter
+crafting_table
+creaking_heart
+creaking_spawn_egg
+creeper_banner_pattern
+creeper_head
+creeper_spawn_egg
+crimson_button
+crimson_door
+crimson_fence
+crimson_fence_gate
+crimson_fungus
+crimson_hanging_sign
+crimson_hyphae
+crimson_nylium
+crimson_planks
+crimson_pressure_plate
+crimson_roots
+crimson_shelf
+crimson_sign
+crimson_slab
+crimson_stairs
+crimson_stem
+crimson_trapdoor
+crossbow
+crying_obsidian
+cut_copper
+cut_copper_slab
+cut_copper_stairs
+cut_red_sandstone
+cut_red_sandstone_slab
+cut_sandstone
+cut_sandstone_slab
+cyan_banner
+cyan_bed
+cyan_bundle
+cyan_candle
+cyan_carpet
+cyan_concrete
+cyan_concrete_powder
+cyan_dye
+cyan_glazed_terracotta
+cyan_harness
+cyan_shulker_box
+cyan_stained_glass
+cyan_stained_glass_pane
+cyan_terracotta
+cyan_wool
+damaged_anvil
+dandelion
+danger_pottery_sherd
+dark_oak_boat
+dark_oak_button
+dark_oak_chest_boat
+dark_oak_door
+dark_oak_fence
+dark_oak_fence_gate
+dark_oak_hanging_sign
+dark_oak_leaves
+dark_oak_log
+dark_oak_planks
+dark_oak_pressure_plate
+dark_oak_sapling
+dark_oak_shelf
+dark_oak_sign
+dark_oak_slab
+dark_oak_stairs
+dark_oak_trapdoor
+dark_oak_wood
+dark_prismarine
+dark_prismarine_slab
+dark_prismarine_stairs
+daylight_detector
+dead_brain_coral
+dead_brain_coral_block
+dead_brain_coral_fan
+dead_bubble_coral
+dead_bubble_coral_block
+dead_bubble_coral_fan
+dead_bush
+dead_fire_coral
+dead_fire_coral_block
+dead_fire_coral_fan
+dead_horn_coral
+dead_horn_coral_block
+dead_horn_coral_fan
+dead_tube_coral
+dead_tube_coral_block
+dead_tube_coral_fan
+debug_stick
+decorated_pot
+deepslate
+deepslate_brick_slab
+deepslate_brick_stairs
+deepslate_brick_wall
+deepslate_bricks
+deepslate_coal_ore
+deepslate_copper_ore
+deepslate_diamond_ore
+deepslate_emerald_ore
+deepslate_gold_ore
+deepslate_iron_ore
+deepslate_lapis_ore
+deepslate_redstone_ore
+deepslate_tile_slab
+deepslate_tile_stairs
+deepslate_tile_wall
+deepslate_tiles
+detector_rail
+diamond
+diamond_axe
+diamond_block
+diamond_boots
+diamond_chestplate
+diamond_helmet
+diamond_hoe
+diamond_horse_armor
+diamond_leggings
+diamond_nautilus_armor
+diamond_ore
+diamond_pickaxe
+diamond_shovel
+diamond_spear
+diamond_sword
+diorite
+diorite_slab
+diorite_stairs
+diorite_wall
+dirt
+dirt_path
+disc_fragment_5
+dispenser
+dolphin_spawn_egg
+donkey_spawn_egg
+dragon_breath
+dragon_egg
+dragon_head
+dried_ghast
+dried_kelp
+dried_kelp_block
+dripstone_block
+dropper
+drowned_spawn_egg
+dune_armor_trim_smithing_template
+echo_shard
+egg
+elder_guardian_spawn_egg
+elytra
+emerald
+emerald_block
+emerald_ore
+enchanted_book
+enchanted_golden_apple
+enchanting_table
+end_crystal
+end_portal_frame
+end_rod
+end_stone
+end_stone_brick_slab
+end_stone_brick_stairs
+end_stone_brick_wall
+end_stone_bricks
+ender_chest
+ender_dragon_spawn_egg
+ender_eye
+ender_pearl
+enderman_spawn_egg
+endermite_spawn_egg
+evoker_spawn_egg
+experience_bottle
+explorer_pottery_sherd
+exposed_chiseled_copper
+exposed_copper
+exposed_copper_bars
+exposed_copper_bulb
+exposed_copper_chain
+exposed_copper_chest
+exposed_copper_door
+exposed_copper_golem_statue
+exposed_copper_grate
+exposed_copper_lantern
+exposed_copper_trapdoor
+exposed_cut_copper
+exposed_cut_copper_slab
+exposed_cut_copper_stairs
+exposed_lightning_rod
+eye_armor_trim_smithing_template
+farmland
+feather
+fermented_spider_eye
+fern
+field_masoned_banner_pattern
+filled_map
+fire_charge
+fire_coral
+fire_coral_block
+fire_coral_fan
+firefly_bush
+firework_rocket
+firework_star
+fishing_rod
+fletching_table
+flint
+flint_and_steel
+flow_armor_trim_smithing_template
+flow_banner_pattern
+flow_pottery_sherd
+flower_banner_pattern
+flower_pot
+flowering_azalea
+flowering_azalea_leaves
+fox_spawn_egg
+friend_pottery_sherd
+frog_spawn_egg
+frogspawn
+furnace
+furnace_minecart
+ghast_spawn_egg
+ghast_tear
+gilded_blackstone
+glass
+glass_bottle
+glass_pane
+glistering_melon_slice
+globe_banner_pattern
+glow_berries
+glow_ink_sac
+glow_item_frame
+glow_lichen
+glow_squid_spawn_egg
+glowstone
+glowstone_dust
+goat_horn
+goat_spawn_egg
+gold_block
+gold_ingot
+gold_nugget
+gold_ore
+golden_apple
+golden_axe
+golden_boots
+golden_carrot
+golden_chestplate
+golden_dandelion
+golden_helmet
+golden_hoe
+golden_horse_armor
+golden_leggings
+golden_nautilus_armor
+golden_pickaxe
+golden_shovel
+golden_spear
+golden_sword
+granite
+granite_slab
+granite_stairs
+granite_wall
+grass_block
+gravel
+gray_banner
+gray_bed
+gray_bundle
+gray_candle
+gray_carpet
+gray_concrete
+gray_concrete_powder
+gray_dye
+gray_glazed_terracotta
+gray_harness
+gray_shulker_box
+gray_stained_glass
+gray_stained_glass_pane
+gray_terracotta
+gray_wool
+green_banner
+green_bed
+green_bundle
+green_candle
+green_carpet
+green_concrete
+green_concrete_powder
+green_dye
+green_glazed_terracotta
+green_harness
+green_shulker_box
+green_stained_glass
+green_stained_glass_pane
+green_terracotta
+green_wool
+grindstone
+guardian_spawn_egg
+gunpowder
+guster_banner_pattern
+guster_pottery_sherd
+hanging_roots
+happy_ghast_spawn_egg
+hay_block
+heart_of_the_sea
+heart_pottery_sherd
+heartbreak_pottery_sherd
+heavy_core
+heavy_weighted_pressure_plate
+hoglin_spawn_egg
+honey_block
+honey_bottle
+honeycomb
+honeycomb_block
+hopper
+hopper_minecart
+horn_coral
+horn_coral_block
+horn_coral_fan
+horse_spawn_egg
+host_armor_trim_smithing_template
+howl_pottery_sherd
+husk_spawn_egg
+ice
+infested_chiseled_stone_bricks
+infested_cobblestone
+infested_cracked_stone_bricks
+infested_deepslate
+infested_mossy_stone_bricks
+infested_stone
+infested_stone_bricks
+ink_sac
+iron_axe
+iron_bars
+iron_block
+iron_boots
+iron_chain
+iron_chestplate
+iron_door
+iron_golem_spawn_egg
+iron_helmet
+iron_hoe
+iron_horse_armor
+iron_ingot
+iron_leggings
+iron_nautilus_armor
+iron_nugget
+iron_ore
+iron_pickaxe
+iron_shovel
+iron_spear
+iron_sword
+iron_trapdoor
+item_frame
+jack_o_lantern
+jigsaw
+jukebox
+jungle_boat
+jungle_button
+jungle_chest_boat
+jungle_door
+jungle_fence
+jungle_fence_gate
+jungle_hanging_sign
+jungle_leaves
+jungle_log
+jungle_planks
+jungle_pressure_plate
+jungle_sapling
+jungle_shelf
+jungle_sign
+jungle_slab
+jungle_stairs
+jungle_trapdoor
+jungle_wood
+kelp
+knowledge_book
+ladder
+lantern
+lapis_block
+lapis_lazuli
+lapis_ore
+large_amethyst_bud
+large_fern
+lava_bucket
+lead
+leaf_litter
+leather
+leather_boots
+leather_chestplate
+leather_helmet
+leather_horse_armor
+leather_leggings
+lectern
+lever
+light
+light_blue_banner
+light_blue_bed
+light_blue_bundle
+light_blue_candle
+light_blue_carpet
+light_blue_concrete
+light_blue_concrete_powder
+light_blue_dye
+light_blue_glazed_terracotta
+light_blue_harness
+light_blue_shulker_box
+light_blue_stained_glass
+light_blue_stained_glass_pane
+light_blue_terracotta
+light_blue_wool
+light_gray_banner
+light_gray_bed
+light_gray_bundle
+light_gray_candle
+light_gray_carpet
+light_gray_concrete
+light_gray_concrete_powder
+light_gray_dye
+light_gray_glazed_terracotta
+light_gray_harness
+light_gray_shulker_box
+light_gray_stained_glass
+light_gray_stained_glass_pane
+light_gray_terracotta
+light_gray_wool
+light_weighted_pressure_plate
+lightning_rod
+lilac
+lily_of_the_valley
+lily_pad
+lime_banner
+lime_bed
+lime_bundle
+lime_candle
+lime_carpet
+lime_concrete
+lime_concrete_powder
+lime_dye
+lime_glazed_terracotta
+lime_harness
+lime_shulker_box
+lime_stained_glass
+lime_stained_glass_pane
+lime_terracotta
+lime_wool
+lingering_potion
+llama_spawn_egg
+lodestone
+loom
+mace
+magenta_banner
+magenta_bed
+magenta_bundle
+magenta_candle
+magenta_carpet
+magenta_concrete
+magenta_concrete_powder
+magenta_dye
+magenta_glazed_terracotta
+magenta_harness
+magenta_shulker_box
+magenta_stained_glass
+magenta_stained_glass_pane
+magenta_terracotta
+magenta_wool
+magma_block
+magma_cream
+magma_cube_spawn_egg
+mangrove_boat
+mangrove_button
+mangrove_chest_boat
+mangrove_door
+mangrove_fence
+mangrove_fence_gate
+mangrove_hanging_sign
+mangrove_leaves
+mangrove_log
+mangrove_planks
+mangrove_pressure_plate
+mangrove_propagule
+mangrove_roots
+mangrove_shelf
+mangrove_sign
+mangrove_slab
+mangrove_stairs
+mangrove_trapdoor
+mangrove_wood
+map
+medium_amethyst_bud
+melon
+melon_seeds
+melon_slice
+milk_bucket
+minecart
+miner_pottery_sherd
+mojang_banner_pattern
+mooshroom_spawn_egg
+moss_block
+moss_carpet
+mossy_cobblestone
+mossy_cobblestone_slab
+mossy_cobblestone_stairs
+mossy_cobblestone_wall
+mossy_stone_brick_slab
+mossy_stone_brick_stairs
+mossy_stone_brick_wall
+mossy_stone_bricks
+mourner_pottery_sherd
+mud
+mud_brick_slab
+mud_brick_stairs
+mud_brick_wall
+mud_bricks
+muddy_mangrove_roots
+mule_spawn_egg
+mushroom_stem
+mushroom_stew
+music_disc_11
+music_disc_13
+music_disc_5
+music_disc_blocks
+music_disc_bounce
+music_disc_cat
+music_disc_chirp
+music_disc_creator
+music_disc_creator_music_box
+music_disc_far
+music_disc_lava_chicken
+music_disc_mall
+music_disc_mellohi
+music_disc_otherside
+music_disc_pigstep
+music_disc_precipice
+music_disc_relic
+music_disc_stal
+music_disc_strad
+music_disc_tears
+music_disc_wait
+music_disc_ward
+mutton
+mycelium
+name_tag
+nautilus_shell
+nautilus_spawn_egg
+nether_brick
+nether_brick_fence
+nether_brick_slab
+nether_brick_stairs
+nether_brick_wall
+nether_bricks
+nether_gold_ore
+nether_quartz_ore
+nether_sprouts
+nether_star
+nether_wart
+nether_wart_block
+netherite_axe
+netherite_block
+netherite_boots
+netherite_chestplate
+netherite_helmet
+netherite_hoe
+netherite_horse_armor
+netherite_ingot
+netherite_leggings
+netherite_nautilus_armor
+netherite_pickaxe
+netherite_scrap
+netherite_shovel
+netherite_spear
+netherite_sword
+netherite_upgrade_smithing_template
+netherrack
+note_block
+oak_boat
+oak_button
+oak_chest_boat
+oak_door
+oak_fence
+oak_fence_gate
+oak_hanging_sign
+oak_leaves
+oak_log
+oak_planks
+oak_pressure_plate
+oak_sapling
+oak_shelf
+oak_sign
+oak_slab
+oak_stairs
+oak_trapdoor
+oak_wood
+observer
+obsidian
+ocelot_spawn_egg
+ochre_froglight
+ominous_bottle
+ominous_trial_key
+open_eyeblossom
+orange_banner
+orange_bed
+orange_bundle
+orange_candle
+orange_carpet
+orange_concrete
+orange_concrete_powder
+orange_dye
+orange_glazed_terracotta
+orange_harness
+orange_shulker_box
+orange_stained_glass
+orange_stained_glass_pane
+orange_terracotta
+orange_tulip
+orange_wool
+oxeye_daisy
+oxidized_chiseled_copper
+oxidized_copper
+oxidized_copper_bars
+oxidized_copper_bulb
+oxidized_copper_chain
+oxidized_copper_chest
+oxidized_copper_door
+oxidized_copper_golem_statue
+oxidized_copper_grate
+oxidized_copper_lantern
+oxidized_copper_trapdoor
+oxidized_cut_copper
+oxidized_cut_copper_slab
+oxidized_cut_copper_stairs
+oxidized_lightning_rod
+packed_ice
+packed_mud
+painting
+pale_hanging_moss
+pale_moss_block
+pale_moss_carpet
+pale_oak_boat
+pale_oak_button
+pale_oak_chest_boat
+pale_oak_door
+pale_oak_fence
+pale_oak_fence_gate
+pale_oak_hanging_sign
+pale_oak_leaves
+pale_oak_log
+pale_oak_planks
+pale_oak_pressure_plate
+pale_oak_sapling
+pale_oak_shelf
+pale_oak_sign
+pale_oak_slab
+pale_oak_stairs
+pale_oak_trapdoor
+pale_oak_wood
+panda_spawn_egg
+paper
+parched_spawn_egg
+parrot_spawn_egg
+pearlescent_froglight
+peony
+petrified_oak_slab
+phantom_membrane
+phantom_spawn_egg
+pig_spawn_egg
+piglin_banner_pattern
+piglin_brute_spawn_egg
+piglin_head
+piglin_spawn_egg
+pillager_spawn_egg
+pink_banner
+pink_bed
+pink_bundle
+pink_candle
+pink_carpet
+pink_concrete
+pink_concrete_powder
+pink_dye
+pink_glazed_terracotta
+pink_harness
+pink_petals
+pink_shulker_box
+pink_stained_glass
+pink_stained_glass_pane
+pink_terracotta
+pink_tulip
+pink_wool
+piston
+pitcher_plant
+pitcher_pod
+player_head
+plenty_pottery_sherd
+podzol
+pointed_dripstone
+poisonous_potato
+polar_bear_spawn_egg
+polished_andesite
+polished_andesite_slab
+polished_andesite_stairs
+polished_basalt
+polished_blackstone
+polished_blackstone_brick_slab
+polished_blackstone_brick_stairs
+polished_blackstone_brick_wall
+polished_blackstone_bricks
+polished_blackstone_button
+polished_blackstone_pressure_plate
+polished_blackstone_slab
+polished_blackstone_stairs
+polished_blackstone_wall
+polished_cinnabar
+polished_cinnabar_slab
+polished_cinnabar_stairs
+polished_cinnabar_wall
+polished_deepslate
+polished_deepslate_slab
+polished_deepslate_stairs
+polished_deepslate_wall
+polished_diorite
+polished_diorite_slab
+polished_diorite_stairs
+polished_granite
+polished_granite_slab
+polished_granite_stairs
+polished_sulfur
+polished_sulfur_slab
+polished_sulfur_stairs
+polished_sulfur_wall
+polished_tuff
+polished_tuff_slab
+polished_tuff_stairs
+polished_tuff_wall
+popped_chorus_fruit
+poppy
+porkchop
+potato
+potent_sulfur
+potion
+powder_snow_bucket
+powered_rail
+prismarine
+prismarine_brick_slab
+prismarine_brick_stairs
+prismarine_bricks
+prismarine_crystals
+prismarine_shard
+prismarine_slab
+prismarine_stairs
+prismarine_wall
+prize_pottery_sherd
+pufferfish
+pufferfish_bucket
+pufferfish_spawn_egg
+pumpkin
+pumpkin_pie
+pumpkin_seeds
+purple_banner
+purple_bed
+purple_bundle
+purple_candle
+purple_carpet
+purple_concrete
+purple_concrete_powder
+purple_dye
+purple_glazed_terracotta
+purple_harness
+purple_shulker_box
+purple_stained_glass
+purple_stained_glass_pane
+purple_terracotta
+purple_wool
+purpur_block
+purpur_pillar
+purpur_slab
+purpur_stairs
+quartz
+quartz_block
+quartz_bricks
+quartz_pillar
+quartz_slab
+quartz_stairs
+rabbit
+rabbit_foot
+rabbit_hide
+rabbit_spawn_egg
+rabbit_stew
+rail
+raiser_armor_trim_smithing_template
+ravager_spawn_egg
+raw_copper
+raw_copper_block
+raw_gold
+raw_gold_block
+raw_iron
+raw_iron_block
+recovery_compass
+red_banner
+red_bed
+red_bundle
+red_candle
+red_carpet
+red_concrete
+red_concrete_powder
+red_dye
+red_glazed_terracotta
+red_harness
+red_mushroom
+red_mushroom_block
+red_nether_brick_slab
+red_nether_brick_stairs
+red_nether_brick_wall
+red_nether_bricks
+red_sand
+red_sandstone
+red_sandstone_slab
+red_sandstone_stairs
+red_sandstone_wall
+red_shulker_box
+red_stained_glass
+red_stained_glass_pane
+red_terracotta
+red_tulip
+red_wool
+redstone
+redstone_block
+redstone_lamp
+redstone_ore
+redstone_torch
+reinforced_deepslate
+repeater
+repeating_command_block
+resin_block
+resin_brick
+resin_brick_slab
+resin_brick_stairs
+resin_brick_wall
+resin_bricks
+resin_clump
+respawn_anchor
+rib_armor_trim_smithing_template
+rooted_dirt
+rose_bush
+rotten_flesh
+saddle
+salmon
+salmon_bucket
+salmon_spawn_egg
+sand
+sandstone
+sandstone_slab
+sandstone_stairs
+sandstone_wall
+scaffolding
+scrape_pottery_sherd
+sculk
+sculk_catalyst
+sculk_sensor
+sculk_shrieker
+sculk_vein
+sea_lantern
+sea_pickle
+seagrass
+sentry_armor_trim_smithing_template
+shaper_armor_trim_smithing_template
+sheaf_pottery_sherd
+shears
+sheep_spawn_egg
+shelter_pottery_sherd
+shield
+short_dry_grass
+short_grass
+shroomlight
+shulker_box
+shulker_shell
+shulker_spawn_egg
+silence_armor_trim_smithing_template
+silverfish_spawn_egg
+skeleton_horse_spawn_egg
+skeleton_skull
+skeleton_spawn_egg
+skull_banner_pattern
+skull_pottery_sherd
+slime_ball
+slime_block
+slime_spawn_egg
+small_amethyst_bud
+small_dripleaf
+smithing_table
+smoker
+smooth_basalt
+smooth_quartz
+smooth_quartz_slab
+smooth_quartz_stairs
+smooth_red_sandstone
+smooth_red_sandstone_slab
+smooth_red_sandstone_stairs
+smooth_sandstone
+smooth_sandstone_slab
+smooth_sandstone_stairs
+smooth_stone
+smooth_stone_slab
+sniffer_egg
+sniffer_spawn_egg
+snort_pottery_sherd
+snout_armor_trim_smithing_template
+snow
+snow_block
+snow_golem_spawn_egg
+snowball
+soul_campfire
+soul_lantern
+soul_sand
+soul_soil
+soul_torch
+spawner
+spectral_arrow
+spider_eye
+spider_spawn_egg
+spire_armor_trim_smithing_template
+splash_potion
+sponge
+spore_blossom
+spruce_boat
+spruce_button
+spruce_chest_boat
+spruce_door
+spruce_fence
+spruce_fence_gate
+spruce_hanging_sign
+spruce_leaves
+spruce_log
+spruce_planks
+spruce_pressure_plate
+spruce_sapling
+spruce_shelf
+spruce_sign
+spruce_slab
+spruce_stairs
+spruce_trapdoor
+spruce_wood
+spyglass
+squid_spawn_egg
+stick
+sticky_piston
+stone
+stone_axe
+stone_brick_slab
+stone_brick_stairs
+stone_brick_wall
+stone_bricks
+stone_button
+stone_hoe
+stone_pickaxe
+stone_pressure_plate
+stone_shovel
+stone_slab
+stone_spear
+stone_stairs
+stone_sword
+stonecutter
+stray_spawn_egg
+strider_spawn_egg
+string
+stripped_acacia_log
+stripped_acacia_wood
+stripped_bamboo_block
+stripped_birch_log
+stripped_birch_wood
+stripped_cherry_log
+stripped_cherry_wood
+stripped_crimson_hyphae
+stripped_crimson_stem
+stripped_dark_oak_log
+stripped_dark_oak_wood
+stripped_jungle_log
+stripped_jungle_wood
+stripped_mangrove_log
+stripped_mangrove_wood
+stripped_oak_log
+stripped_oak_wood
+stripped_pale_oak_log
+stripped_pale_oak_wood
+stripped_spruce_log
+stripped_spruce_wood
+stripped_warped_hyphae
+stripped_warped_stem
+structure_block
+structure_void
+sugar
+sugar_cane
+sulfur
+sulfur_brick_slab
+sulfur_brick_stairs
+sulfur_brick_wall
+sulfur_bricks
+sulfur_cube_bucket
+sulfur_cube_spawn_egg
+sulfur_slab
+sulfur_spike
+sulfur_stairs
+sulfur_wall
+sunflower
+suspicious_gravel
+suspicious_sand
+suspicious_stew
+sweet_berries
+tadpole_bucket
+tadpole_spawn_egg
+tall_dry_grass
+tall_grass
+target
+terracotta
+test_block
+test_instance_block
+tide_armor_trim_smithing_template
+tinted_glass
+tipped_arrow
+tnt
+tnt_minecart
+torch
+torchflower
+torchflower_seeds
+totem_of_undying
+trader_llama_spawn_egg
+trapped_chest
+trial_key
+trial_spawner
+trident
+tripwire_hook
+tropical_fish
+tropical_fish_bucket
+tropical_fish_spawn_egg
+tube_coral
+tube_coral_block
+tube_coral_fan
+tuff
+tuff_brick_slab
+tuff_brick_stairs
+tuff_brick_wall
+tuff_bricks
+tuff_slab
+tuff_stairs
+tuff_wall
+turtle_egg
+turtle_helmet
+turtle_scute
+turtle_spawn_egg
+twisting_vines
+vault
+verdant_froglight
+vex_armor_trim_smithing_template
+vex_spawn_egg
+villager_spawn_egg
+vindicator_spawn_egg
+vine
+wandering_trader_spawn_egg
+ward_armor_trim_smithing_template
+warden_spawn_egg
+warped_button
+warped_door
+warped_fence
+warped_fence_gate
+warped_fungus
+warped_fungus_on_a_stick
+warped_hanging_sign
+warped_hyphae
+warped_nylium
+warped_planks
+warped_pressure_plate
+warped_roots
+warped_shelf
+warped_sign
+warped_slab
+warped_stairs
+warped_stem
+warped_trapdoor
+warped_wart_block
+water_bucket
+waxed_chiseled_copper
+waxed_copper_bars
+waxed_copper_block
+waxed_copper_bulb
+waxed_copper_chain
+waxed_copper_chest
+waxed_copper_door
+waxed_copper_golem_statue
+waxed_copper_grate
+waxed_copper_lantern
+waxed_copper_trapdoor
+waxed_cut_copper
+waxed_cut_copper_slab
+waxed_cut_copper_stairs
+waxed_exposed_chiseled_copper
+waxed_exposed_copper
+waxed_exposed_copper_bars
+waxed_exposed_copper_bulb
+waxed_exposed_copper_chain
+waxed_exposed_copper_chest
+waxed_exposed_copper_door
+waxed_exposed_copper_golem_statue
+waxed_exposed_copper_grate
+waxed_exposed_copper_lantern
+waxed_exposed_copper_trapdoor
+waxed_exposed_cut_copper
+waxed_exposed_cut_copper_slab
+waxed_exposed_cut_copper_stairs
+waxed_exposed_lightning_rod
+waxed_lightning_rod
+waxed_oxidized_chiseled_copper
+waxed_oxidized_copper
+waxed_oxidized_copper_bars
+waxed_oxidized_copper_bulb
+waxed_oxidized_copper_chain
+waxed_oxidized_copper_chest
+waxed_oxidized_copper_door
+waxed_oxidized_copper_golem_statue
+waxed_oxidized_copper_grate
+waxed_oxidized_copper_lantern
+waxed_oxidized_copper_trapdoor
+waxed_oxidized_cut_copper
+waxed_oxidized_cut_copper_slab
+waxed_oxidized_cut_copper_stairs
+waxed_oxidized_lightning_rod
+waxed_weathered_chiseled_copper
+waxed_weathered_copper
+waxed_weathered_copper_bars
+waxed_weathered_copper_bulb
+waxed_weathered_copper_chain
+waxed_weathered_copper_chest
+waxed_weathered_copper_door
+waxed_weathered_copper_golem_statue
+waxed_weathered_copper_grate
+waxed_weathered_copper_lantern
+waxed_weathered_copper_trapdoor
+waxed_weathered_cut_copper
+waxed_weathered_cut_copper_slab
+waxed_weathered_cut_copper_stairs
+waxed_weathered_lightning_rod
+wayfinder_armor_trim_smithing_template
+weathered_chiseled_copper
+weathered_copper
+weathered_copper_bars
+weathered_copper_bulb
+weathered_copper_chain
+weathered_copper_chest
+weathered_copper_door
+weathered_copper_golem_statue
+weathered_copper_grate
+weathered_copper_lantern
+weathered_copper_trapdoor
+weathered_cut_copper
+weathered_cut_copper_slab
+weathered_cut_copper_stairs
+weathered_lightning_rod
+weeping_vines
+wet_sponge
+wheat
+wheat_seeds
+white_banner
+white_bed
+white_bundle
+white_candle
+white_carpet
+white_concrete
+white_concrete_powder
+white_dye
+white_glazed_terracotta
+white_harness
+white_shulker_box
+white_stained_glass
+white_stained_glass_pane
+white_terracotta
+white_tulip
+white_wool
+wild_armor_trim_smithing_template
+wildflowers
+wind_charge
+witch_spawn_egg
+wither_rose
+wither_skeleton_skull
+wither_skeleton_spawn_egg
+wither_spawn_egg
+wolf_armor
+wolf_spawn_egg
+wooden_axe
+wooden_hoe
+wooden_pickaxe
+wooden_shovel
+wooden_spear
+wooden_sword
+writable_book
+written_book
+yellow_banner
+yellow_bed
+yellow_bundle
+yellow_candle
+yellow_carpet
+yellow_concrete
+yellow_concrete_powder
+yellow_dye
+yellow_glazed_terracotta
+yellow_harness
+yellow_shulker_box
+yellow_stained_glass
+yellow_stained_glass_pane
+yellow_terracotta
+yellow_wool
+zoglin_spawn_egg
+zombie_head
+zombie_horse_spawn_egg
+zombie_nautilus_spawn_egg
+zombie_spawn_egg
+zombie_villager_spawn_egg
+zombified_piglin_spawn_egg
+
+## REZEPTE (ergebnis <- typ: zutaten, '|' = eins davon, '#' = Tag)
+acacia_boat x1 <- crafting_shaped: acacia_planks
+acacia_button x1 <- crafting_shapeless: acacia_planks
+acacia_chest_boat x1 <- crafting_shapeless: chest, acacia_boat
+acacia_door x3 <- crafting_shaped: acacia_planks
+acacia_fence x3 <- crafting_shaped: stick, acacia_planks
+acacia_fence_gate x1 <- crafting_shaped: stick, acacia_planks
+acacia_hanging_sign x6 <- crafting_shaped: stripped_acacia_log, iron_chain
+acacia_planks x4 <- crafting_shapeless: #acacia_logs
+acacia_pressure_plate x1 <- crafting_shaped: acacia_planks
+acacia_shelf x6 <- crafting_shaped: stripped_acacia_log
+acacia_sign x3 <- crafting_shaped: acacia_planks, stick
+acacia_slab x6 <- crafting_shaped: acacia_planks
+acacia_stairs x4 <- crafting_shaped: acacia_planks
+acacia_trapdoor x2 <- crafting_shaped: acacia_planks
+acacia_wood x3 <- crafting_shaped: acacia_log
+activator_rail x6 <- crafting_shaped: redstone_torch, stick, iron_ingot
+amethyst_block x1 <- crafting_shaped: amethyst_shard
+andesite x2 <- crafting_shapeless: diorite, cobblestone
+andesite_slab x6 <- crafting_shaped: andesite
+andesite_slab x2 <- stonecutting: andesite
+andesite_stairs x4 <- crafting_shaped: andesite
+andesite_stairs x1 <- stonecutting: andesite
+andesite_wall x6 <- crafting_shaped: andesite
+andesite_wall x1 <- stonecutting: andesite
+anvil x1 <- crafting_shaped: iron_block, iron_ingot
+armor_stand x1 <- crafting_shaped: stick, smooth_stone_slab
+arrow x4 <- crafting_shaped: stick, flint, feather
+baked_potato x1 <- smelting: potato
+baked_potato x1 <- campfire_cooking: potato
+baked_potato x1 <- smoking: potato
+bamboo_block x1 <- crafting_shapeless: bamboo, bamboo, bamboo, bamboo, bamboo, bamboo, bamboo, bamboo, bamboo
+bamboo_button x1 <- crafting_shapeless: bamboo_planks
+bamboo_chest_raft x1 <- crafting_shapeless: chest, bamboo_raft
+bamboo_door x3 <- crafting_shaped: bamboo_planks
+bamboo_fence x3 <- crafting_shaped: stick, bamboo_planks
+bamboo_fence_gate x1 <- crafting_shaped: stick, bamboo_planks
+bamboo_hanging_sign x6 <- crafting_shaped: stripped_bamboo_block, iron_chain
+bamboo_mosaic x1 <- crafting_shaped: bamboo_slab
+bamboo_mosaic_slab x6 <- crafting_shaped: bamboo_mosaic
+bamboo_mosaic_stairs x4 <- crafting_shaped: bamboo_mosaic
+bamboo_planks x2 <- crafting_shapeless: #bamboo_blocks
+bamboo_pressure_plate x1 <- crafting_shaped: bamboo_planks
+bamboo_raft x1 <- crafting_shaped: bamboo_planks
+bamboo_shelf x6 <- crafting_shaped: stripped_bamboo_block
+bamboo_sign x3 <- crafting_shaped: bamboo_planks, stick
+bamboo_slab x6 <- crafting_shaped: bamboo_planks
+bamboo_stairs x4 <- crafting_shaped: bamboo_planks
+bamboo_trapdoor x2 <- crafting_shaped: bamboo_planks
+barrel x1 <- crafting_shaped: #planks, #wooden_slabs
+beacon x1 <- crafting_shaped: glass, obsidian, nether_star
+beehive x1 <- crafting_shaped: honeycomb, #planks
+beetroot_soup x1 <- crafting_shapeless: bowl, beetroot, beetroot, beetroot, beetroot, beetroot, beetroot
+birch_boat x1 <- crafting_shaped: birch_planks
+birch_button x1 <- crafting_shapeless: birch_planks
+birch_chest_boat x1 <- crafting_shapeless: chest, birch_boat
+birch_door x3 <- crafting_shaped: birch_planks
+birch_fence x3 <- crafting_shaped: stick, birch_planks
+birch_fence_gate x1 <- crafting_shaped: stick, birch_planks
+birch_hanging_sign x6 <- crafting_shaped: stripped_birch_log, iron_chain
+birch_planks x4 <- crafting_shapeless: #birch_logs
+birch_pressure_plate x1 <- crafting_shaped: birch_planks
+birch_shelf x6 <- crafting_shaped: stripped_birch_log
+birch_sign x3 <- crafting_shaped: birch_planks, stick
+birch_slab x6 <- crafting_shaped: birch_planks
+birch_stairs x4 <- crafting_shaped: birch_planks
+birch_trapdoor x2 <- crafting_shaped: birch_planks
+birch_wood x3 <- crafting_shaped: birch_log
+black_banner x1 <- crafting_shaped: black_wool, stick
+black_banner x1 <- crafting_special_bannerduplicate: 
+black_bed x1 <- crafting_shaped: black_wool, #planks
+black_bundle x1 <- crafting_transmute: #bundles, black_dye
+black_candle x1 <- crafting_shapeless: candle, black_dye
+black_carpet x3 <- crafting_shaped: black_wool
+black_concrete_powder x8 <- crafting_shapeless: black_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+black_dye x1 <- crafting_shapeless: ink_sac
+black_dye x1 <- crafting_shapeless: wither_rose
+black_glazed_terracotta x1 <- smelting: black_terracotta
+black_harness x1 <- crafting_shaped: black_wool, glass, leather
+black_shulker_box x1 <- crafting_transmute: #shulker_boxes, black_dye
+black_stained_glass x8 <- crafting_shaped: glass, black_dye
+black_stained_glass_pane x16 <- crafting_shaped: black_stained_glass
+black_stained_glass_pane x8 <- crafting_shaped: glass_pane, black_dye
+black_terracotta x8 <- crafting_shaped: terracotta, black_dye
+blackstone_slab x6 <- crafting_shaped: blackstone
+blackstone_slab x2 <- stonecutting: blackstone
+blackstone_stairs x4 <- crafting_shaped: blackstone
+blackstone_stairs x1 <- stonecutting: blackstone
+blackstone_wall x6 <- crafting_shaped: blackstone
+blackstone_wall x1 <- stonecutting: blackstone
+blast_furnace x1 <- crafting_shaped: smooth_stone, iron_ingot, furnace
+blaze_powder x2 <- crafting_shapeless: blaze_rod
+blue_banner x1 <- crafting_shaped: blue_wool, stick
+blue_banner x1 <- crafting_special_bannerduplicate: 
+blue_bed x1 <- crafting_shaped: blue_wool, #planks
+blue_bundle x1 <- crafting_transmute: #bundles, blue_dye
+blue_candle x1 <- crafting_shapeless: candle, blue_dye
+blue_carpet x3 <- crafting_shaped: blue_wool
+blue_concrete_powder x8 <- crafting_shapeless: blue_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+blue_dye x1 <- crafting_shapeless: lapis_lazuli
+blue_dye x1 <- crafting_shapeless: cornflower
+blue_glazed_terracotta x1 <- smelting: blue_terracotta
+blue_harness x1 <- crafting_shaped: blue_wool, glass, leather
+blue_ice x1 <- crafting_shapeless: packed_ice, packed_ice, packed_ice, packed_ice, packed_ice, packed_ice, packed_ice, packed_ice, packed_ice
+blue_shulker_box x1 <- crafting_transmute: #shulker_boxes, blue_dye
+blue_stained_glass x8 <- crafting_shaped: glass, blue_dye
+blue_stained_glass_pane x16 <- crafting_shaped: blue_stained_glass
+blue_stained_glass_pane x8 <- crafting_shaped: glass_pane, blue_dye
+blue_terracotta x8 <- crafting_shaped: terracotta, blue_dye
+bolt_armor_trim_smithing_template x2 <- crafting_shaped: diamond, copper_block|waxed_copper_block, bolt_armor_trim_smithing_template
+bone_block x1 <- crafting_shaped: bone_meal
+bone_meal x3 <- crafting_shapeless: bone
+bone_meal x9 <- crafting_shapeless: bone_block
+book x1 <- crafting_shapeless: paper, paper, paper, leather
+written_book x1 <- crafting_special_bookcloning: #book_cloning_target
+bookshelf x1 <- crafting_shaped: #planks, book
+bordure_indented_banner_pattern x1 <- crafting_shapeless: paper, vine
+bow x1 <- crafting_shaped: stick, string
+bowl x4 <- crafting_shaped: #planks
+bread x1 <- crafting_shaped: wheat
+brewing_stand x1 <- crafting_shaped: #stone_crafting_materials, blaze_rod
+brick x1 <- smelting: clay_ball
+brick_slab x6 <- crafting_shaped: bricks
+brick_slab x2 <- stonecutting: bricks
+brick_stairs x4 <- crafting_shaped: bricks
+brick_stairs x1 <- stonecutting: bricks
+brick_wall x6 <- crafting_shaped: bricks
+brick_wall x1 <- stonecutting: bricks
+bricks x1 <- crafting_shaped: brick
+brown_banner x1 <- crafting_shaped: brown_wool, stick
+brown_banner x1 <- crafting_special_bannerduplicate: 
+brown_bed x1 <- crafting_shaped: brown_wool, #planks
+brown_bundle x1 <- crafting_transmute: #bundles, brown_dye
+brown_candle x1 <- crafting_shapeless: candle, brown_dye
+brown_carpet x3 <- crafting_shaped: brown_wool
+brown_concrete_powder x8 <- crafting_shapeless: brown_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+brown_dye x1 <- crafting_shapeless: cocoa_beans
+brown_glazed_terracotta x1 <- smelting: brown_terracotta
+brown_harness x1 <- crafting_shaped: brown_wool, glass, leather
+brown_shulker_box x1 <- crafting_transmute: #shulker_boxes, brown_dye
+brown_stained_glass x8 <- crafting_shaped: glass, brown_dye
+brown_stained_glass_pane x16 <- crafting_shaped: brown_stained_glass
+brown_stained_glass_pane x8 <- crafting_shaped: glass_pane, brown_dye
+brown_terracotta x8 <- crafting_shaped: terracotta, brown_dye
+brush x1 <- crafting_shaped: copper_ingot, stick, feather
+bucket x1 <- crafting_shaped: iron_ingot
+bundle x1 <- crafting_shaped: leather, string
+cake x1 <- crafting_shaped: milk_bucket, sugar, wheat, #eggs
+calibrated_sculk_sensor x1 <- crafting_shaped: amethyst_shard, sculk_sensor
+campfire x1 <- crafting_shaped: #coals, #logs, stick
+candle x1 <- crafting_shaped: honeycomb, string
+carrot_on_a_stick x1 <- crafting_shaped: fishing_rod, carrot
+cartography_table x1 <- crafting_shaped: #planks, paper
+cauldron x1 <- crafting_shaped: iron_ingot
+charcoal x1 <- smelting: #logs_that_burn
+cherry_boat x1 <- crafting_shaped: cherry_planks
+cherry_button x1 <- crafting_shapeless: cherry_planks
+cherry_chest_boat x1 <- crafting_shapeless: chest, cherry_boat
+cherry_door x3 <- crafting_shaped: cherry_planks
+cherry_fence x3 <- crafting_shaped: stick, cherry_planks
+cherry_fence_gate x1 <- crafting_shaped: stick, cherry_planks
+cherry_hanging_sign x6 <- crafting_shaped: stripped_cherry_log, iron_chain
+cherry_planks x4 <- crafting_shapeless: #cherry_logs
+cherry_pressure_plate x1 <- crafting_shaped: cherry_planks
+cherry_shelf x6 <- crafting_shaped: stripped_cherry_log
+cherry_sign x3 <- crafting_shaped: cherry_planks, stick
+cherry_slab x6 <- crafting_shaped: cherry_planks
+cherry_stairs x4 <- crafting_shaped: cherry_planks
+cherry_trapdoor x2 <- crafting_shaped: cherry_planks
+cherry_wood x3 <- crafting_shaped: cherry_log
+chest x1 <- crafting_shaped: #planks
+chest_minecart x1 <- crafting_shapeless: chest, minecart
+chiseled_bookshelf x1 <- crafting_shaped: #planks, #wooden_slabs
+chiseled_cinnabar x1 <- crafting_shaped: cinnabar_slab
+chiseled_cinnabar x1 <- stonecutting: cinnabar
+chiseled_copper x1 <- crafting_shaped: cut_copper_slab
+chiseled_copper x4 <- stonecutting: copper_block
+chiseled_copper x1 <- stonecutting: cut_copper
+chiseled_deepslate x1 <- crafting_shaped: cobbled_deepslate_slab
+chiseled_deepslate x1 <- stonecutting: cobbled_deepslate
+chiseled_deepslate x1 <- stonecutting: deepslate
+chiseled_nether_bricks x1 <- crafting_shaped: nether_brick_slab
+chiseled_nether_bricks x1 <- stonecutting: nether_bricks
+chiseled_polished_blackstone x1 <- crafting_shaped: polished_blackstone_slab
+chiseled_polished_blackstone x1 <- stonecutting: blackstone
+chiseled_polished_blackstone x1 <- stonecutting: polished_blackstone
+chiseled_quartz_block x1 <- crafting_shaped: quartz_slab
+chiseled_quartz_block x1 <- stonecutting: quartz_block
+chiseled_red_sandstone x1 <- crafting_shaped: red_sandstone_slab
+chiseled_red_sandstone x1 <- stonecutting: red_sandstone
+chiseled_resin_bricks x1 <- crafting_shaped: resin_brick_slab
+chiseled_resin_bricks x1 <- stonecutting: resin_bricks
+chiseled_sandstone x1 <- crafting_shaped: sandstone_slab
+chiseled_sandstone x1 <- stonecutting: sandstone
+chiseled_stone_bricks x1 <- crafting_shaped: stone_brick_slab
+chiseled_stone_bricks x1 <- stonecutting: stone_bricks
+chiseled_stone_bricks x1 <- stonecutting: stone
+chiseled_sulfur x1 <- crafting_shaped: sulfur_slab
+chiseled_sulfur x1 <- stonecutting: sulfur
+chiseled_tuff x1 <- crafting_shaped: tuff_slab
+chiseled_tuff_bricks x1 <- crafting_shaped: tuff_brick_slab
+chiseled_tuff_bricks x1 <- stonecutting: polished_tuff
+chiseled_tuff_bricks x1 <- stonecutting: tuff_bricks
+chiseled_tuff_bricks x1 <- stonecutting: tuff
+chiseled_tuff x1 <- stonecutting: tuff
+cinnabar_brick_slab x6 <- crafting_shaped: cinnabar_bricks
+cinnabar_brick_slab x2 <- stonecutting: cinnabar_bricks
+cinnabar_brick_slab x2 <- stonecutting: cinnabar
+cinnabar_brick_slab x2 <- stonecutting: polished_cinnabar
+cinnabar_brick_stairs x4 <- crafting_shaped: cinnabar_bricks
+cinnabar_brick_stairs x1 <- stonecutting: cinnabar_bricks
+cinnabar_brick_stairs x1 <- stonecutting: cinnabar
+cinnabar_brick_stairs x1 <- stonecutting: polished_cinnabar
+cinnabar_brick_wall x6 <- crafting_shaped: cinnabar_bricks
+cinnabar_brick_wall x1 <- stonecutting: cinnabar_bricks
+cinnabar_brick_wall x1 <- stonecutting: cinnabar
+cinnabar_brick_wall x1 <- stonecutting: polished_cinnabar
+cinnabar_bricks x4 <- crafting_shaped: polished_cinnabar
+cinnabar_bricks x1 <- stonecutting: cinnabar
+cinnabar_bricks x1 <- stonecutting: polished_cinnabar
+cinnabar_slab x6 <- crafting_shaped: cinnabar
+cinnabar_slab x2 <- stonecutting: cinnabar
+cinnabar_stairs x4 <- crafting_shaped: cinnabar
+cinnabar_stairs x1 <- stonecutting: cinnabar
+cinnabar_wall x6 <- crafting_shaped: cinnabar
+cinnabar_wall x1 <- stonecutting: cinnabar
+clay x1 <- crafting_shaped: clay_ball
+clock x1 <- crafting_shaped: gold_ingot, redstone
+coal x9 <- crafting_shapeless: coal_block
+coal_block x1 <- crafting_shaped: coal
+coal x1 <- blasting: coal_ore
+coal x1 <- blasting: deepslate_coal_ore
+coal x1 <- smelting: coal_ore
+coal x1 <- smelting: deepslate_coal_ore
+coarse_dirt x4 <- crafting_shaped: dirt, gravel
+coast_armor_trim_smithing_template x2 <- crafting_shaped: diamond, cobblestone, coast_armor_trim_smithing_template
+cobbled_deepslate x1 <- stonecutting: deepslate
+cobbled_deepslate_slab x6 <- crafting_shaped: cobbled_deepslate
+cobbled_deepslate_slab x2 <- stonecutting: cobbled_deepslate
+cobbled_deepslate_slab x2 <- stonecutting: deepslate
+cobbled_deepslate_stairs x4 <- crafting_shaped: cobbled_deepslate
+cobbled_deepslate_stairs x1 <- stonecutting: cobbled_deepslate
+cobbled_deepslate_stairs x1 <- stonecutting: deepslate
+cobbled_deepslate_wall x6 <- crafting_shaped: cobbled_deepslate
+cobbled_deepslate_wall x1 <- stonecutting: cobbled_deepslate
+cobbled_deepslate_wall x1 <- stonecutting: deepslate
+cobblestone x1 <- stonecutting: stone
+cobblestone_slab x6 <- crafting_shaped: cobblestone
+cobblestone_slab x2 <- stonecutting: cobblestone
+cobblestone_slab x2 <- stonecutting: stone
+cobblestone_stairs x4 <- crafting_shaped: cobblestone
+cobblestone_stairs x1 <- stonecutting: cobblestone
+cobblestone_stairs x1 <- stonecutting: stone
+cobblestone_wall x6 <- crafting_shaped: cobblestone
+cobblestone_wall x1 <- stonecutting: cobblestone
+cobblestone_wall x1 <- stonecutting: stone
+comparator x1 <- crafting_shaped: redstone_torch, stone, quartz
+compass x1 <- crafting_shaped: iron_ingot, redstone
+composter x1 <- crafting_shaped: #wooden_slabs
+conduit x1 <- crafting_shaped: nautilus_shell, heart_of_the_sea
+cooked_beef x1 <- smelting: beef
+cooked_beef x1 <- campfire_cooking: beef
+cooked_beef x1 <- smoking: beef
+cooked_chicken x1 <- smelting: chicken
+cooked_chicken x1 <- campfire_cooking: chicken
+cooked_chicken x1 <- smoking: chicken
+cooked_cod x1 <- smelting: cod
+cooked_cod x1 <- campfire_cooking: cod
+cooked_cod x1 <- smoking: cod
+cooked_mutton x1 <- smelting: mutton
+cooked_mutton x1 <- campfire_cooking: mutton
+cooked_mutton x1 <- smoking: mutton
+cooked_porkchop x1 <- smelting: porkchop
+cooked_porkchop x1 <- campfire_cooking: porkchop
+cooked_porkchop x1 <- smoking: porkchop
+cooked_rabbit x1 <- smelting: rabbit
+cooked_rabbit x1 <- campfire_cooking: rabbit
+cooked_rabbit x1 <- smoking: rabbit
+cooked_salmon x1 <- smelting: salmon
+cooked_salmon x1 <- campfire_cooking: salmon
+cooked_salmon x1 <- smoking: salmon
+cookie x8 <- crafting_shaped: wheat, cocoa_beans
+copper_axe x1 <- crafting_shaped: stick, #copper_tool_materials
+copper_bars x16 <- crafting_shaped: copper_ingot
+copper_block x1 <- crafting_shaped: copper_ingot
+copper_boots x1 <- crafting_shaped: copper_ingot
+copper_bulb x4 <- crafting_shaped: blaze_rod, copper_block, redstone
+copper_chain x1 <- crafting_shaped: copper_ingot, copper_nugget
+copper_chest x1 <- crafting_shaped: copper_ingot, chest
+copper_chestplate x1 <- crafting_shaped: copper_ingot
+copper_door x3 <- crafting_shaped: copper_ingot
+copper_grate x4 <- crafting_shaped: copper_block
+copper_grate x4 <- stonecutting: copper_block
+copper_helmet x1 <- crafting_shaped: copper_ingot
+copper_hoe x1 <- crafting_shaped: stick, #copper_tool_materials
+copper_ingot x9 <- crafting_shapeless: copper_block
+copper_ingot x1 <- blasting: copper_ore
+copper_ingot x1 <- blasting: deepslate_copper_ore
+copper_ingot x1 <- blasting: raw_copper
+copper_ingot x1 <- crafting_shaped: copper_nugget
+copper_ingot x1 <- smelting: copper_ore
+copper_ingot x1 <- smelting: deepslate_copper_ore
+copper_ingot x1 <- smelting: raw_copper
+copper_ingot x9 <- crafting_shapeless: waxed_copper_block
+copper_lantern x1 <- crafting_shaped: copper_torch, copper_nugget
+copper_leggings x1 <- crafting_shaped: copper_ingot
+copper_nugget x9 <- crafting_shapeless: copper_ingot
+copper_nugget x1 <- blasting: copper_pickaxe|copper_shovel|copper_axe|copper_hoe|copper_sword|copper_spear|copper_helmet|copper_chestplate|copper_leggings|copper_boots|copper_horse_armor|copper_nautilus_armor
+copper_nugget x1 <- smelting: copper_pickaxe|copper_shovel|copper_axe|copper_hoe|copper_sword|copper_spear|copper_helmet|copper_chestplate|copper_leggings|copper_boots|copper_horse_armor|copper_nautilus_armor
+copper_pickaxe x1 <- crafting_shaped: stick, #copper_tool_materials
+copper_shovel x1 <- crafting_shaped: stick, #copper_tool_materials
+copper_spear x1 <- crafting_shaped: stick, #copper_tool_materials
+copper_sword x1 <- crafting_shaped: stick, #copper_tool_materials
+copper_torch x4 <- crafting_shaped: stick, copper_nugget, coal|charcoal
+copper_trapdoor x1 <- crafting_shaped: copper_ingot
+cracked_deepslate_bricks x1 <- smelting: deepslate_bricks
+cracked_deepslate_tiles x1 <- smelting: deepslate_tiles
+cracked_nether_bricks x1 <- smelting: nether_bricks
+cracked_polished_blackstone_bricks x1 <- smelting: polished_blackstone_bricks
+cracked_stone_bricks x1 <- smelting: stone_bricks
+crafter x1 <- crafting_shaped: iron_ingot, crafting_table, dropper, redstone
+crafting_table x1 <- crafting_shaped: #planks
+creaking_heart x1 <- crafting_shaped: pale_oak_log, resin_block
+creeper_banner_pattern x1 <- crafting_shapeless: paper, creeper_head
+crimson_button x1 <- crafting_shapeless: crimson_planks
+crimson_door x3 <- crafting_shaped: crimson_planks
+crimson_fence x3 <- crafting_shaped: stick, crimson_planks
+crimson_fence_gate x1 <- crafting_shaped: stick, crimson_planks
+crimson_hanging_sign x6 <- crafting_shaped: stripped_crimson_stem, iron_chain
+crimson_hyphae x3 <- crafting_shaped: crimson_stem
+crimson_planks x4 <- crafting_shapeless: #crimson_stems
+crimson_pressure_plate x1 <- crafting_shaped: crimson_planks
+crimson_shelf x6 <- crafting_shaped: stripped_crimson_stem
+crimson_sign x3 <- crafting_shaped: crimson_planks, stick
+crimson_slab x6 <- crafting_shaped: crimson_planks
+crimson_stairs x4 <- crafting_shaped: crimson_planks
+crimson_trapdoor x2 <- crafting_shaped: crimson_planks
+crossbow x1 <- crafting_shaped: stick, tripwire_hook, iron_ingot, string
+cut_copper x4 <- crafting_shaped: copper_block
+cut_copper x4 <- stonecutting: copper_block
+cut_copper_slab x6 <- crafting_shaped: cut_copper
+cut_copper_slab x8 <- stonecutting: copper_block
+cut_copper_slab x2 <- stonecutting: cut_copper
+cut_copper_stairs x4 <- crafting_shaped: cut_copper
+cut_copper_stairs x4 <- stonecutting: copper_block
+cut_copper_stairs x1 <- stonecutting: cut_copper
+cut_red_sandstone x4 <- crafting_shaped: red_sandstone
+cut_red_sandstone x1 <- stonecutting: red_sandstone
+cut_red_sandstone_slab x6 <- crafting_shaped: cut_red_sandstone
+cut_red_sandstone_slab x2 <- stonecutting: cut_red_sandstone
+cut_red_sandstone_slab x2 <- stonecutting: red_sandstone
+cut_sandstone x4 <- crafting_shaped: sandstone
+cut_sandstone x1 <- stonecutting: sandstone
+cut_sandstone_slab x6 <- crafting_shaped: cut_sandstone
+cut_sandstone_slab x2 <- stonecutting: cut_sandstone
+cut_sandstone_slab x2 <- stonecutting: sandstone
+cyan_banner x1 <- crafting_shaped: cyan_wool, stick
+cyan_banner x1 <- crafting_special_bannerduplicate: 
+cyan_bed x1 <- crafting_shaped: cyan_wool, #planks
+cyan_bundle x1 <- crafting_transmute: #bundles, cyan_dye
+cyan_candle x1 <- crafting_shapeless: candle, cyan_dye
+cyan_carpet x3 <- crafting_shaped: cyan_wool
+cyan_concrete_powder x8 <- crafting_shapeless: cyan_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+cyan_dye x2 <- crafting_shapeless: blue_dye, green_dye
+cyan_dye x2 <- crafting_shapeless: pitcher_plant
+cyan_glazed_terracotta x1 <- smelting: cyan_terracotta
+cyan_harness x1 <- crafting_shaped: cyan_wool, glass, leather
+cyan_shulker_box x1 <- crafting_transmute: #shulker_boxes, cyan_dye
+cyan_stained_glass x8 <- crafting_shaped: glass, cyan_dye
+cyan_stained_glass_pane x16 <- crafting_shaped: cyan_stained_glass
+cyan_stained_glass_pane x8 <- crafting_shaped: glass_pane, cyan_dye
+cyan_terracotta x8 <- crafting_shaped: terracotta, cyan_dye
+dark_oak_boat x1 <- crafting_shaped: dark_oak_planks
+dark_oak_button x1 <- crafting_shapeless: dark_oak_planks
+dark_oak_chest_boat x1 <- crafting_shapeless: chest, dark_oak_boat
+dark_oak_door x3 <- crafting_shaped: dark_oak_planks
+dark_oak_fence x3 <- crafting_shaped: stick, dark_oak_planks
+dark_oak_fence_gate x1 <- crafting_shaped: stick, dark_oak_planks
+dark_oak_hanging_sign x6 <- crafting_shaped: stripped_dark_oak_log, iron_chain
+dark_oak_planks x4 <- crafting_shapeless: #dark_oak_logs
+dark_oak_pressure_plate x1 <- crafting_shaped: dark_oak_planks
+dark_oak_shelf x6 <- crafting_shaped: stripped_dark_oak_log
+dark_oak_sign x3 <- crafting_shaped: dark_oak_planks, stick
+dark_oak_slab x6 <- crafting_shaped: dark_oak_planks
+dark_oak_stairs x4 <- crafting_shaped: dark_oak_planks
+dark_oak_trapdoor x2 <- crafting_shaped: dark_oak_planks
+dark_oak_wood x3 <- crafting_shaped: dark_oak_log
+dark_prismarine x1 <- crafting_shaped: black_dye, prismarine_shard
+dark_prismarine_slab x6 <- crafting_shaped: dark_prismarine
+dark_prismarine_slab x2 <- stonecutting: dark_prismarine
+dark_prismarine_stairs x4 <- crafting_shaped: dark_prismarine
+dark_prismarine_stairs x1 <- stonecutting: dark_prismarine
+daylight_detector x1 <- crafting_shaped: glass, quartz, #wooden_slabs
+decorated_pot x1 <- crafting_decorated_pot: 
+decorated_pot x1 <- crafting_shaped: brick
+deepslate x1 <- smelting: cobbled_deepslate
+deepslate_brick_slab x6 <- crafting_shaped: deepslate_bricks
+deepslate_brick_slab x2 <- stonecutting: cobbled_deepslate
+deepslate_brick_slab x2 <- stonecutting: deepslate_bricks
+deepslate_brick_slab x2 <- stonecutting: deepslate
+deepslate_brick_slab x2 <- stonecutting: polished_deepslate
+deepslate_brick_stairs x4 <- crafting_shaped: deepslate_bricks
+deepslate_brick_stairs x1 <- stonecutting: cobbled_deepslate
+deepslate_brick_stairs x1 <- stonecutting: deepslate_bricks
+deepslate_brick_stairs x1 <- stonecutting: deepslate
+deepslate_brick_stairs x1 <- stonecutting: polished_deepslate
+deepslate_brick_wall x6 <- crafting_shaped: deepslate_bricks
+deepslate_brick_wall x1 <- stonecutting: cobbled_deepslate
+deepslate_brick_wall x1 <- stonecutting: deepslate_bricks
+deepslate_brick_wall x1 <- stonecutting: deepslate
+deepslate_brick_wall x1 <- stonecutting: polished_deepslate
+deepslate_bricks x4 <- crafting_shaped: polished_deepslate
+deepslate_bricks x1 <- stonecutting: cobbled_deepslate
+deepslate_bricks x1 <- stonecutting: deepslate
+deepslate_bricks x1 <- stonecutting: polished_deepslate
+deepslate_tile_slab x6 <- crafting_shaped: deepslate_tiles
+deepslate_tile_slab x2 <- stonecutting: cobbled_deepslate
+deepslate_tile_slab x2 <- stonecutting: deepslate_bricks
+deepslate_tile_slab x2 <- stonecutting: deepslate
+deepslate_tile_slab x2 <- stonecutting: deepslate_tiles
+deepslate_tile_slab x2 <- stonecutting: polished_deepslate
+deepslate_tile_stairs x4 <- crafting_shaped: deepslate_tiles
+deepslate_tile_stairs x1 <- stonecutting: cobbled_deepslate
+deepslate_tile_stairs x1 <- stonecutting: deepslate_bricks
+deepslate_tile_stairs x1 <- stonecutting: deepslate
+deepslate_tile_stairs x1 <- stonecutting: deepslate_tiles
+deepslate_tile_stairs x1 <- stonecutting: polished_deepslate
+deepslate_tile_wall x6 <- crafting_shaped: deepslate_tiles
+deepslate_tile_wall x1 <- stonecutting: cobbled_deepslate
+deepslate_tile_wall x1 <- stonecutting: deepslate_bricks
+deepslate_tile_wall x1 <- stonecutting: deepslate
+deepslate_tile_wall x1 <- stonecutting: deepslate_tiles
+deepslate_tile_wall x1 <- stonecutting: polished_deepslate
+deepslate_tiles x4 <- crafting_shaped: deepslate_bricks
+deepslate_tiles x1 <- stonecutting: cobbled_deepslate
+deepslate_tiles x1 <- stonecutting: deepslate_bricks
+deepslate_tiles x1 <- stonecutting: deepslate
+deepslate_tiles x1 <- stonecutting: polished_deepslate
+detector_rail x6 <- crafting_shaped: stone_pressure_plate, redstone, iron_ingot
+diamond x9 <- crafting_shapeless: diamond_block
+diamond_axe x1 <- crafting_shaped: stick, #diamond_tool_materials
+diamond_block x1 <- crafting_shaped: diamond
+diamond_boots x1 <- crafting_shaped: diamond
+diamond_chestplate x1 <- crafting_shaped: diamond
+diamond x1 <- blasting: deepslate_diamond_ore
+diamond x1 <- blasting: diamond_ore
+diamond x1 <- smelting: deepslate_diamond_ore
+diamond x1 <- smelting: diamond_ore
+diamond_helmet x1 <- crafting_shaped: diamond
+diamond_hoe x1 <- crafting_shaped: stick, #diamond_tool_materials
+diamond_leggings x1 <- crafting_shaped: diamond
+diamond_pickaxe x1 <- crafting_shaped: stick, #diamond_tool_materials
+diamond_shovel x1 <- crafting_shaped: stick, #diamond_tool_materials
+diamond_spear x1 <- crafting_shaped: stick, #diamond_tool_materials
+diamond_sword x1 <- crafting_shaped: stick, #diamond_tool_materials
+diorite x2 <- crafting_shaped: cobblestone, quartz
+diorite_slab x6 <- crafting_shaped: diorite
+diorite_slab x2 <- stonecutting: diorite
+diorite_stairs x4 <- crafting_shaped: diorite
+diorite_stairs x1 <- stonecutting: diorite
+diorite_wall x6 <- crafting_shaped: diorite
+diorite_wall x1 <- stonecutting: diorite
+dispenser x1 <- crafting_shaped: cobblestone, redstone, bow
+dried_ghast x1 <- crafting_shaped: ghast_tear, soul_sand
+dried_kelp x9 <- crafting_shapeless: dried_kelp_block
+dried_kelp_block x1 <- crafting_shaped: dried_kelp
+dried_kelp x1 <- campfire_cooking: kelp
+dried_kelp x1 <- smelting: kelp
+dried_kelp x1 <- smoking: kelp
+dripstone_block x1 <- crafting_shaped: pointed_dripstone
+dropper x1 <- crafting_shaped: cobblestone, redstone
+dune_armor_trim_smithing_template x2 <- crafting_shaped: diamond, sandstone, dune_armor_trim_smithing_template
+black_bed x1 <- crafting_shapeless: black_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|green_bed|red_bed
+black_carpet x1 <- crafting_shapeless: black_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet
+black_harness x1 <- crafting_shapeless: black_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|green_harness|red_harness
+black_wool x1 <- crafting_shapeless: black_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|green_wool|red_wool
+blue_bed x1 <- crafting_shapeless: blue_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|brown_bed|green_bed|red_bed|black_bed
+blue_carpet x1 <- crafting_shapeless: blue_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+blue_harness x1 <- crafting_shapeless: blue_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|brown_harness|green_harness|red_harness|black_harness
+blue_wool x1 <- crafting_shapeless: blue_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|brown_wool|green_wool|red_wool|black_wool
+brown_bed x1 <- crafting_shapeless: brown_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|green_bed|red_bed|black_bed
+brown_carpet x1 <- crafting_shapeless: brown_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|green_carpet|red_carpet|black_carpet
+brown_harness x1 <- crafting_shapeless: brown_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|green_harness|red_harness|black_harness
+brown_wool x1 <- crafting_shapeless: brown_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|green_wool|red_wool|black_wool
+cyan_bed x1 <- crafting_shapeless: cyan_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|purple_bed|blue_bed|brown_bed|green_bed|red_bed|black_bed
+cyan_carpet x1 <- crafting_shapeless: cyan_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+cyan_harness x1 <- crafting_shapeless: cyan_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|purple_harness|blue_harness|brown_harness|green_harness|red_harness|black_harness
+cyan_wool x1 <- crafting_shapeless: cyan_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|purple_wool|blue_wool|brown_wool|green_wool|red_wool|black_wool
+gray_bed x1 <- crafting_shapeless: gray_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|green_bed|red_bed|black_bed
+gray_carpet x1 <- crafting_shapeless: gray_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+gray_harness x1 <- crafting_shapeless: gray_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|green_harness|red_harness|black_harness
+gray_wool x1 <- crafting_shapeless: gray_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|green_wool|red_wool|black_wool
+green_bed x1 <- crafting_shapeless: green_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|red_bed|black_bed
+green_carpet x1 <- crafting_shapeless: green_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|red_carpet|black_carpet
+green_harness x1 <- crafting_shapeless: green_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|red_harness|black_harness
+green_wool x1 <- crafting_shapeless: green_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|red_wool|black_wool
+light_blue_bed x1 <- crafting_shapeless: light_blue_dye, white_bed|orange_bed|magenta_bed|yellow_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|green_bed|red_bed|black_bed
+light_blue_carpet x1 <- crafting_shapeless: light_blue_dye, white_carpet|orange_carpet|magenta_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+light_blue_harness x1 <- crafting_shapeless: light_blue_dye, white_harness|orange_harness|magenta_harness|yellow_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|green_harness|red_harness|black_harness
+light_blue_wool x1 <- crafting_shapeless: light_blue_dye, white_wool|orange_wool|magenta_wool|yellow_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|green_wool|red_wool|black_wool
+light_gray_bed x1 <- crafting_shapeless: light_gray_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|green_bed|red_bed|black_bed
+light_gray_carpet x1 <- crafting_shapeless: light_gray_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+light_gray_harness x1 <- crafting_shapeless: light_gray_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|green_harness|red_harness|black_harness
+light_gray_wool x1 <- crafting_shapeless: light_gray_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|green_wool|red_wool|black_wool
+lime_bed x1 <- crafting_shapeless: lime_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|yellow_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|green_bed|red_bed|black_bed
+lime_carpet x1 <- crafting_shapeless: lime_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+lime_harness x1 <- crafting_shapeless: lime_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|yellow_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|green_harness|red_harness|black_harness
+lime_wool x1 <- crafting_shapeless: lime_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|yellow_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|green_wool|red_wool|black_wool
+magenta_bed x1 <- crafting_shapeless: magenta_dye, white_bed|orange_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|green_bed|red_bed|black_bed
+magenta_carpet x1 <- crafting_shapeless: magenta_dye, white_carpet|orange_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+magenta_harness x1 <- crafting_shapeless: magenta_dye, white_harness|orange_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|green_harness|red_harness|black_harness
+magenta_wool x1 <- crafting_shapeless: magenta_dye, white_wool|orange_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|green_wool|red_wool|black_wool
+orange_bed x1 <- crafting_shapeless: orange_dye, white_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|green_bed|red_bed|black_bed
+orange_carpet x1 <- crafting_shapeless: orange_dye, white_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+orange_harness x1 <- crafting_shapeless: orange_dye, white_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|green_harness|red_harness|black_harness
+orange_wool x1 <- crafting_shapeless: orange_dye, white_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|green_wool|red_wool|black_wool
+pink_bed x1 <- crafting_shapeless: pink_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|green_bed|red_bed|black_bed
+pink_carpet x1 <- crafting_shapeless: pink_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+pink_harness x1 <- crafting_shapeless: pink_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|green_harness|red_harness|black_harness
+pink_wool x1 <- crafting_shapeless: pink_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|green_wool|red_wool|black_wool
+purple_bed x1 <- crafting_shapeless: purple_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|blue_bed|brown_bed|green_bed|red_bed|black_bed
+purple_carpet x1 <- crafting_shapeless: purple_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+purple_harness x1 <- crafting_shapeless: purple_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|blue_harness|brown_harness|green_harness|red_harness|black_harness
+purple_wool x1 <- crafting_shapeless: purple_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|blue_wool|brown_wool|green_wool|red_wool|black_wool
+red_bed x1 <- crafting_shapeless: red_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|green_bed|black_bed
+red_carpet x1 <- crafting_shapeless: red_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|black_carpet
+red_harness x1 <- crafting_shapeless: red_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|green_harness|black_harness
+red_wool x1 <- crafting_shapeless: red_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|green_wool|black_wool
+white_bed x1 <- crafting_shapeless: white_dye, orange_bed|magenta_bed|light_blue_bed|yellow_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|green_bed|red_bed|black_bed
+white_carpet x1 <- crafting_shapeless: white_dye, orange_carpet|magenta_carpet|light_blue_carpet|yellow_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+white_harness x1 <- crafting_shapeless: white_dye, orange_harness|magenta_harness|light_blue_harness|yellow_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|green_harness|red_harness|black_harness
+white_wool x1 <- crafting_shapeless: white_dye, orange_wool|magenta_wool|light_blue_wool|yellow_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|green_wool|red_wool|black_wool
+yellow_bed x1 <- crafting_shapeless: yellow_dye, white_bed|orange_bed|magenta_bed|light_blue_bed|lime_bed|pink_bed|gray_bed|light_gray_bed|cyan_bed|purple_bed|blue_bed|brown_bed|green_bed|red_bed|black_bed
+yellow_carpet x1 <- crafting_shapeless: yellow_dye, white_carpet|orange_carpet|magenta_carpet|light_blue_carpet|lime_carpet|pink_carpet|gray_carpet|light_gray_carpet|cyan_carpet|purple_carpet|blue_carpet|brown_carpet|green_carpet|red_carpet|black_carpet
+yellow_harness x1 <- crafting_shapeless: yellow_dye, white_harness|orange_harness|magenta_harness|light_blue_harness|lime_harness|pink_harness|gray_harness|light_gray_harness|cyan_harness|purple_harness|blue_harness|brown_harness|green_harness|red_harness|black_harness
+yellow_wool x1 <- crafting_shapeless: yellow_dye, white_wool|orange_wool|magenta_wool|light_blue_wool|lime_wool|pink_wool|gray_wool|light_gray_wool|cyan_wool|purple_wool|blue_wool|brown_wool|green_wool|red_wool|black_wool
+emerald x9 <- crafting_shapeless: emerald_block
+emerald_block x1 <- crafting_shaped: emerald
+emerald x1 <- blasting: deepslate_emerald_ore
+emerald x1 <- blasting: emerald_ore
+emerald x1 <- smelting: deepslate_emerald_ore
+emerald x1 <- smelting: emerald_ore
+enchanting_table x1 <- crafting_shaped: obsidian, book, diamond
+end_crystal x1 <- crafting_shaped: ender_eye, glass, ghast_tear
+end_rod x4 <- crafting_shaped: popped_chorus_fruit, blaze_rod
+end_stone_brick_slab x6 <- crafting_shaped: end_stone_bricks
+end_stone_brick_slab x2 <- stonecutting: end_stone_bricks
+end_stone_brick_slab x2 <- stonecutting: end_stone
+end_stone_brick_stairs x4 <- crafting_shaped: end_stone_bricks
+end_stone_brick_stairs x1 <- stonecutting: end_stone_bricks
+end_stone_brick_stairs x1 <- stonecutting: end_stone
+end_stone_brick_wall x6 <- crafting_shaped: end_stone_bricks
+end_stone_brick_wall x1 <- stonecutting: end_stone_bricks
+end_stone_brick_wall x1 <- stonecutting: end_stone
+end_stone_bricks x4 <- crafting_shaped: end_stone
+end_stone_bricks x1 <- stonecutting: end_stone
+ender_chest x1 <- crafting_shaped: obsidian, ender_eye
+ender_eye x1 <- crafting_shapeless: ender_pearl, blaze_powder
+exposed_chiseled_copper x1 <- crafting_shaped: exposed_cut_copper_slab
+exposed_chiseled_copper x4 <- stonecutting: exposed_copper
+exposed_chiseled_copper x1 <- stonecutting: exposed_cut_copper
+exposed_copper_bulb x4 <- crafting_shaped: blaze_rod, exposed_copper, redstone
+exposed_copper_grate x4 <- crafting_shaped: exposed_copper
+exposed_copper_grate x4 <- stonecutting: exposed_copper
+exposed_cut_copper x4 <- crafting_shaped: exposed_copper
+exposed_cut_copper x4 <- stonecutting: exposed_copper
+exposed_cut_copper_slab x6 <- crafting_shaped: exposed_cut_copper
+exposed_cut_copper_slab x8 <- stonecutting: exposed_copper
+exposed_cut_copper_slab x2 <- stonecutting: exposed_cut_copper
+exposed_cut_copper_stairs x4 <- crafting_shaped: exposed_cut_copper
+exposed_cut_copper_stairs x4 <- stonecutting: exposed_copper
+exposed_cut_copper_stairs x1 <- stonecutting: exposed_cut_copper
+eye_armor_trim_smithing_template x2 <- crafting_shaped: diamond, end_stone, eye_armor_trim_smithing_template
+fermented_spider_eye x1 <- crafting_shapeless: spider_eye, brown_mushroom, sugar
+field_masoned_banner_pattern x1 <- crafting_shapeless: paper, bricks
+fire_charge x3 <- crafting_shapeless: gunpowder, blaze_powder, coal|charcoal
+firework_rocket x3 <- crafting_special_firework_rocket: 
+firework_rocket x3 <- crafting_shapeless: gunpowder, paper
+firework_star x1 <- crafting_special_firework_star: 
+firework_star x1 <- crafting_special_firework_star_fade: 
+fishing_rod x1 <- crafting_shaped: stick, string
+fletching_table x1 <- crafting_shaped: #planks, flint
+flint_and_steel x1 <- crafting_shapeless: iron_ingot, flint
+flow_armor_trim_smithing_template x2 <- crafting_shaped: diamond, breeze_rod, flow_armor_trim_smithing_template
+flower_banner_pattern x1 <- crafting_shapeless: paper, oxeye_daisy
+flower_pot x1 <- crafting_shaped: brick
+furnace x1 <- crafting_shaped: #stone_crafting_materials
+furnace_minecart x1 <- crafting_shapeless: furnace, minecart
+glass x1 <- smelting: #smelts_to_glass
+glass_bottle x3 <- crafting_shaped: glass
+glass_pane x16 <- crafting_shaped: glass
+glistering_melon_slice x1 <- crafting_shaped: gold_nugget, melon_slice
+glow_item_frame x1 <- crafting_shapeless: item_frame, glow_ink_sac
+glowstone x1 <- crafting_shaped: glowstone_dust
+gold_block x1 <- crafting_shaped: gold_ingot
+gold_ingot x1 <- blasting: deepslate_gold_ore
+gold_ingot x1 <- blasting: gold_ore
+gold_ingot x1 <- blasting: nether_gold_ore
+gold_ingot x1 <- blasting: raw_gold
+gold_ingot x9 <- crafting_shapeless: gold_block
+gold_ingot x1 <- crafting_shaped: gold_nugget
+gold_ingot x1 <- smelting: deepslate_gold_ore
+gold_ingot x1 <- smelting: gold_ore
+gold_ingot x1 <- smelting: nether_gold_ore
+gold_ingot x1 <- smelting: raw_gold
+gold_nugget x9 <- crafting_shapeless: gold_ingot
+gold_nugget x1 <- blasting: golden_pickaxe|golden_shovel|golden_axe|golden_hoe|golden_sword|golden_spear|golden_helmet|golden_chestplate|golden_leggings|golden_boots|golden_horse_armor|golden_nautilus_armor
+gold_nugget x1 <- smelting: golden_pickaxe|golden_shovel|golden_axe|golden_hoe|golden_sword|golden_spear|golden_helmet|golden_chestplate|golden_leggings|golden_boots|golden_horse_armor|golden_nautilus_armor
+golden_apple x1 <- crafting_shaped: gold_ingot, apple
+golden_axe x1 <- crafting_shaped: stick, #gold_tool_materials
+golden_boots x1 <- crafting_shaped: gold_ingot
+golden_carrot x1 <- crafting_shaped: gold_nugget, carrot
+golden_chestplate x1 <- crafting_shaped: gold_ingot
+golden_dandelion x1 <- crafting_shaped: gold_nugget, dandelion
+golden_helmet x1 <- crafting_shaped: gold_ingot
+golden_hoe x1 <- crafting_shaped: stick, #gold_tool_materials
+golden_leggings x1 <- crafting_shaped: gold_ingot
+golden_pickaxe x1 <- crafting_shaped: stick, #gold_tool_materials
+golden_shovel x1 <- crafting_shaped: stick, #gold_tool_materials
+golden_spear x1 <- crafting_shaped: stick, #gold_tool_materials
+golden_sword x1 <- crafting_shaped: stick, #gold_tool_materials
+granite x1 <- crafting_shapeless: diorite, quartz
+granite_slab x6 <- crafting_shaped: granite
+granite_slab x2 <- stonecutting: granite
+granite_stairs x4 <- crafting_shaped: granite
+granite_stairs x1 <- stonecutting: granite
+granite_wall x6 <- crafting_shaped: granite
+granite_wall x1 <- stonecutting: granite
+gray_banner x1 <- crafting_shaped: gray_wool, stick
+gray_banner x1 <- crafting_special_bannerduplicate: 
+gray_bed x1 <- crafting_shaped: gray_wool, #planks
+gray_bundle x1 <- crafting_transmute: #bundles, gray_dye
+gray_candle x1 <- crafting_shapeless: candle, gray_dye
+gray_carpet x3 <- crafting_shaped: gray_wool
+gray_concrete_powder x8 <- crafting_shapeless: gray_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+gray_dye x2 <- crafting_shapeless: black_dye, white_dye
+gray_dye x1 <- crafting_shapeless: closed_eyeblossom
+gray_glazed_terracotta x1 <- smelting: gray_terracotta
+gray_harness x1 <- crafting_shaped: gray_wool, glass, leather
+gray_shulker_box x1 <- crafting_transmute: #shulker_boxes, gray_dye
+gray_stained_glass x8 <- crafting_shaped: glass, gray_dye
+gray_stained_glass_pane x16 <- crafting_shaped: gray_stained_glass
+gray_stained_glass_pane x8 <- crafting_shaped: glass_pane, gray_dye
+gray_terracotta x8 <- crafting_shaped: terracotta, gray_dye
+green_banner x1 <- crafting_shaped: green_wool, stick
+green_banner x1 <- crafting_special_bannerduplicate: 
+green_bed x1 <- crafting_shaped: green_wool, #planks
+green_bundle x1 <- crafting_transmute: #bundles, green_dye
+green_candle x1 <- crafting_shapeless: candle, green_dye
+green_carpet x3 <- crafting_shaped: green_wool
+green_concrete_powder x8 <- crafting_shapeless: green_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+green_dye x1 <- smelting: cactus
+green_glazed_terracotta x1 <- smelting: green_terracotta
+green_harness x1 <- crafting_shaped: green_wool, glass, leather
+green_shulker_box x1 <- crafting_transmute: #shulker_boxes, green_dye
+green_stained_glass x8 <- crafting_shaped: glass, green_dye
+green_stained_glass_pane x16 <- crafting_shaped: green_stained_glass
+green_stained_glass_pane x8 <- crafting_shaped: glass_pane, green_dye
+green_terracotta x8 <- crafting_shaped: terracotta, green_dye
+grindstone x1 <- crafting_shaped: #planks, stone_slab, stick
+hay_block x1 <- crafting_shapeless: wheat, wheat, wheat, wheat, wheat, wheat, wheat, wheat, wheat
+heavy_weighted_pressure_plate x1 <- crafting_shaped: iron_ingot
+honey_block x1 <- crafting_shaped: honey_bottle
+honey_bottle x4 <- crafting_shapeless: honey_block, glass_bottle, glass_bottle, glass_bottle, glass_bottle
+honeycomb_block x1 <- crafting_shaped: honeycomb
+hopper x1 <- crafting_shaped: chest, iron_ingot
+hopper_minecart x1 <- crafting_shapeless: hopper, minecart
+host_armor_trim_smithing_template x2 <- crafting_shaped: diamond, terracotta, host_armor_trim_smithing_template
+iron_axe x1 <- crafting_shaped: stick, #iron_tool_materials
+iron_bars x16 <- crafting_shaped: iron_ingot
+iron_block x1 <- crafting_shaped: iron_ingot
+iron_boots x1 <- crafting_shaped: iron_ingot
+iron_chain x1 <- crafting_shaped: iron_ingot, iron_nugget
+iron_chestplate x1 <- crafting_shaped: iron_ingot
+iron_door x3 <- crafting_shaped: iron_ingot
+iron_helmet x1 <- crafting_shaped: iron_ingot
+iron_hoe x1 <- crafting_shaped: stick, #iron_tool_materials
+iron_ingot x1 <- blasting: deepslate_iron_ore
+iron_ingot x1 <- blasting: iron_ore
+iron_ingot x1 <- blasting: raw_iron
+iron_ingot x9 <- crafting_shapeless: iron_block
+iron_ingot x1 <- crafting_shaped: iron_nugget
+iron_ingot x1 <- smelting: deepslate_iron_ore
+iron_ingot x1 <- smelting: iron_ore
+iron_ingot x1 <- smelting: raw_iron
+iron_leggings x1 <- crafting_shaped: iron_ingot
+iron_nugget x9 <- crafting_shapeless: iron_ingot
+iron_nugget x1 <- blasting: iron_pickaxe|iron_shovel|iron_axe|iron_hoe|iron_sword|iron_spear|iron_helmet|iron_chestplate|iron_leggings|iron_boots|iron_horse_armor|iron_nautilus_armor|chainmail_helmet|chainmail_chestplate|chainmail_leggings|chainmail_boots
+iron_nugget x1 <- smelting: iron_pickaxe|iron_shovel|iron_axe|iron_hoe|iron_sword|iron_spear|iron_helmet|iron_chestplate|iron_leggings|iron_boots|iron_horse_armor|chainmail_helmet|chainmail_chestplate|chainmail_leggings|chainmail_boots|iron_nautilus_armor
+iron_pickaxe x1 <- crafting_shaped: stick, #iron_tool_materials
+iron_shovel x1 <- crafting_shaped: stick, #iron_tool_materials
+iron_spear x1 <- crafting_shaped: stick, #iron_tool_materials
+iron_sword x1 <- crafting_shaped: stick, #iron_tool_materials
+iron_trapdoor x1 <- crafting_shaped: iron_ingot
+item_frame x1 <- crafting_shaped: stick, leather
+jack_o_lantern x1 <- crafting_shaped: carved_pumpkin, torch
+jukebox x1 <- crafting_shaped: #planks, diamond
+jungle_boat x1 <- crafting_shaped: jungle_planks
+jungle_button x1 <- crafting_shapeless: jungle_planks
+jungle_chest_boat x1 <- crafting_shapeless: chest, jungle_boat
+jungle_door x3 <- crafting_shaped: jungle_planks
+jungle_fence x3 <- crafting_shaped: stick, jungle_planks
+jungle_fence_gate x1 <- crafting_shaped: stick, jungle_planks
+jungle_hanging_sign x6 <- crafting_shaped: stripped_jungle_log, iron_chain
+jungle_planks x4 <- crafting_shapeless: #jungle_logs
+jungle_pressure_plate x1 <- crafting_shaped: jungle_planks
+jungle_shelf x6 <- crafting_shaped: stripped_jungle_log
+jungle_sign x3 <- crafting_shaped: jungle_planks, stick
+jungle_slab x6 <- crafting_shaped: jungle_planks
+jungle_stairs x4 <- crafting_shaped: jungle_planks
+jungle_trapdoor x2 <- crafting_shaped: jungle_planks
+jungle_wood x3 <- crafting_shaped: jungle_log
+ladder x3 <- crafting_shaped: stick
+lantern x1 <- crafting_shaped: torch, iron_nugget
+lapis_block x1 <- crafting_shaped: lapis_lazuli
+lapis_lazuli x9 <- crafting_shapeless: lapis_block
+lapis_lazuli x1 <- blasting: deepslate_lapis_ore
+lapis_lazuli x1 <- blasting: lapis_ore
+lapis_lazuli x1 <- smelting: deepslate_lapis_ore
+lapis_lazuli x1 <- smelting: lapis_ore
+lead x2 <- crafting_shaped: string
+leaf_litter x1 <- smelting: #leaves
+leather x1 <- crafting_shaped: rabbit_hide
+leather_boots x1 <- crafting_shaped: leather
+leather_boots x1 <- crafting_dye: 
+leather_chestplate x1 <- crafting_shaped: leather
+leather_chestplate x1 <- crafting_dye: 
+leather_helmet x1 <- crafting_shaped: leather
+leather_helmet x1 <- crafting_dye: 
+leather_horse_armor x1 <- crafting_shaped: leather
+leather_horse_armor x1 <- crafting_dye: 
+leather_leggings x1 <- crafting_shaped: leather
+leather_leggings x1 <- crafting_dye: 
+lectern x1 <- crafting_shaped: bookshelf, #wooden_slabs
+lever x1 <- crafting_shaped: cobblestone, stick
+light_blue_banner x1 <- crafting_shaped: light_blue_wool, stick
+light_blue_banner x1 <- crafting_special_bannerduplicate: 
+light_blue_bed x1 <- crafting_shaped: light_blue_wool, #planks
+light_blue_bundle x1 <- crafting_transmute: #bundles, light_blue_dye
+light_blue_candle x1 <- crafting_shapeless: candle, light_blue_dye
+light_blue_carpet x3 <- crafting_shaped: light_blue_wool
+light_blue_concrete_powder x8 <- crafting_shapeless: light_blue_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+light_blue_dye x1 <- crafting_shapeless: blue_orchid
+light_blue_dye x2 <- crafting_shapeless: blue_dye, white_dye
+light_blue_glazed_terracotta x1 <- smelting: light_blue_terracotta
+light_blue_harness x1 <- crafting_shaped: light_blue_wool, glass, leather
+light_blue_shulker_box x1 <- crafting_transmute: #shulker_boxes, light_blue_dye
+light_blue_stained_glass x8 <- crafting_shaped: glass, light_blue_dye
+light_blue_stained_glass_pane x16 <- crafting_shaped: light_blue_stained_glass
+light_blue_stained_glass_pane x8 <- crafting_shaped: glass_pane, light_blue_dye
+light_blue_terracotta x8 <- crafting_shaped: terracotta, light_blue_dye
+light_gray_banner x1 <- crafting_shaped: light_gray_wool, stick
+light_gray_banner x1 <- crafting_special_bannerduplicate: 
+light_gray_bed x1 <- crafting_shaped: light_gray_wool, #planks
+light_gray_bundle x1 <- crafting_transmute: #bundles, light_gray_dye
+light_gray_candle x1 <- crafting_shapeless: candle, light_gray_dye
+light_gray_carpet x3 <- crafting_shaped: light_gray_wool
+light_gray_concrete_powder x8 <- crafting_shapeless: light_gray_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+light_gray_dye x1 <- crafting_shapeless: azure_bluet
+light_gray_dye x3 <- crafting_shapeless: black_dye, white_dye, white_dye
+light_gray_dye x2 <- crafting_shapeless: gray_dye, white_dye
+light_gray_dye x1 <- crafting_shapeless: oxeye_daisy
+light_gray_dye x1 <- crafting_shapeless: white_tulip
+light_gray_glazed_terracotta x1 <- smelting: light_gray_terracotta
+light_gray_harness x1 <- crafting_shaped: light_gray_wool, glass, leather
+light_gray_shulker_box x1 <- crafting_transmute: #shulker_boxes, light_gray_dye
+light_gray_stained_glass x8 <- crafting_shaped: glass, light_gray_dye
+light_gray_stained_glass_pane x16 <- crafting_shaped: light_gray_stained_glass
+light_gray_stained_glass_pane x8 <- crafting_shaped: glass_pane, light_gray_dye
+light_gray_terracotta x8 <- crafting_shaped: terracotta, light_gray_dye
+light_weighted_pressure_plate x1 <- crafting_shaped: gold_ingot
+lightning_rod x1 <- crafting_shaped: copper_ingot
+lime_banner x1 <- crafting_shaped: lime_wool, stick
+lime_banner x1 <- crafting_special_bannerduplicate: 
+lime_bed x1 <- crafting_shaped: lime_wool, #planks
+lime_bundle x1 <- crafting_transmute: #bundles, lime_dye
+lime_candle x1 <- crafting_shapeless: candle, lime_dye
+lime_carpet x3 <- crafting_shaped: lime_wool
+lime_concrete_powder x8 <- crafting_shapeless: lime_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+lime_dye x2 <- crafting_shapeless: green_dye, white_dye
+lime_dye x1 <- smelting: sea_pickle
+lime_glazed_terracotta x1 <- smelting: lime_terracotta
+lime_harness x1 <- crafting_shaped: lime_wool, glass, leather
+lime_shulker_box x1 <- crafting_transmute: #shulker_boxes, lime_dye
+lime_stained_glass x8 <- crafting_shaped: glass, lime_dye
+lime_stained_glass_pane x16 <- crafting_shaped: lime_stained_glass
+lime_stained_glass_pane x8 <- crafting_shaped: glass_pane, lime_dye
+lime_terracotta x8 <- crafting_shaped: terracotta, lime_dye
+lodestone x1 <- crafting_shaped: iron_ingot, chiseled_stone_bricks
+loom x1 <- crafting_shaped: #planks, string
+mace x1 <- crafting_shaped: heavy_core, breeze_rod
+magenta_banner x1 <- crafting_shaped: magenta_wool, stick
+magenta_banner x1 <- crafting_special_bannerduplicate: 
+magenta_bed x1 <- crafting_shaped: magenta_wool, #planks
+magenta_bundle x1 <- crafting_transmute: #bundles, magenta_dye
+magenta_candle x1 <- crafting_shapeless: candle, magenta_dye
+magenta_carpet x3 <- crafting_shaped: magenta_wool
+magenta_concrete_powder x8 <- crafting_shapeless: magenta_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+magenta_dye x1 <- crafting_shapeless: allium
+magenta_dye x3 <- crafting_shapeless: blue_dye, red_dye, pink_dye
+magenta_dye x4 <- crafting_shapeless: blue_dye, red_dye, red_dye, white_dye
+magenta_dye x2 <- crafting_shapeless: lilac
+magenta_dye x2 <- crafting_shapeless: purple_dye, pink_dye
+magenta_glazed_terracotta x1 <- smelting: magenta_terracotta
+magenta_harness x1 <- crafting_shaped: magenta_wool, glass, leather
+magenta_shulker_box x1 <- crafting_transmute: #shulker_boxes, magenta_dye
+magenta_stained_glass x8 <- crafting_shaped: glass, magenta_dye
+magenta_stained_glass_pane x16 <- crafting_shaped: magenta_stained_glass
+magenta_stained_glass_pane x8 <- crafting_shaped: glass_pane, magenta_dye
+magenta_terracotta x8 <- crafting_shaped: terracotta, magenta_dye
+magma_block x1 <- crafting_shaped: magma_cream
+magma_cream x1 <- crafting_shapeless: blaze_powder, slime_ball
+mangrove_boat x1 <- crafting_shaped: mangrove_planks
+mangrove_button x1 <- crafting_shapeless: mangrove_planks
+mangrove_chest_boat x1 <- crafting_shapeless: chest, mangrove_boat
+mangrove_door x3 <- crafting_shaped: mangrove_planks
+mangrove_fence x3 <- crafting_shaped: stick, mangrove_planks
+mangrove_fence_gate x1 <- crafting_shaped: stick, mangrove_planks
+mangrove_hanging_sign x6 <- crafting_shaped: stripped_mangrove_log, iron_chain
+mangrove_planks x4 <- crafting_shapeless: #mangrove_logs
+mangrove_pressure_plate x1 <- crafting_shaped: mangrove_planks
+mangrove_shelf x6 <- crafting_shaped: stripped_mangrove_log
+mangrove_sign x3 <- crafting_shaped: mangrove_planks, stick
+mangrove_slab x6 <- crafting_shaped: mangrove_planks
+mangrove_stairs x4 <- crafting_shaped: mangrove_planks
+mangrove_trapdoor x2 <- crafting_shaped: mangrove_planks
+mangrove_wood x3 <- crafting_shaped: mangrove_log
+map x1 <- crafting_shaped: paper, compass
+filled_map x1 <- crafting_transmute: filled_map, map
+filled_map x1 <- crafting_special_mapextending: paper
+melon x1 <- crafting_shapeless: melon_slice, melon_slice, melon_slice, melon_slice, melon_slice, melon_slice, melon_slice, melon_slice, melon_slice
+melon_seeds x1 <- crafting_shapeless: melon_slice
+minecart x1 <- crafting_shaped: iron_ingot
+mojang_banner_pattern x1 <- crafting_shapeless: paper, enchanted_golden_apple
+moss_carpet x3 <- crafting_shaped: moss_block
+mossy_cobblestone x1 <- crafting_shapeless: cobblestone, moss_block
+mossy_cobblestone x1 <- crafting_shapeless: cobblestone, vine
+mossy_cobblestone_slab x6 <- crafting_shaped: mossy_cobblestone
+mossy_cobblestone_slab x2 <- stonecutting: mossy_cobblestone
+mossy_cobblestone_stairs x4 <- crafting_shaped: mossy_cobblestone
+mossy_cobblestone_stairs x1 <- stonecutting: mossy_cobblestone
+mossy_cobblestone_wall x6 <- crafting_shaped: mossy_cobblestone
+mossy_cobblestone_wall x1 <- stonecutting: mossy_cobblestone
+mossy_stone_brick_slab x6 <- crafting_shaped: mossy_stone_bricks
+mossy_stone_brick_slab x2 <- stonecutting: mossy_stone_bricks
+mossy_stone_brick_stairs x4 <- crafting_shaped: mossy_stone_bricks
+mossy_stone_brick_stairs x1 <- stonecutting: mossy_stone_bricks
+mossy_stone_brick_wall x6 <- crafting_shaped: mossy_stone_bricks
+mossy_stone_brick_wall x1 <- stonecutting: mossy_stone_bricks
+mossy_stone_bricks x1 <- crafting_shapeless: stone_bricks, moss_block
+mossy_stone_bricks x1 <- crafting_shapeless: stone_bricks, vine
+mud_brick_slab x6 <- crafting_shaped: mud_bricks
+mud_brick_slab x2 <- stonecutting: mud_bricks
+mud_brick_stairs x4 <- crafting_shaped: mud_bricks
+mud_brick_stairs x1 <- stonecutting: mud_bricks
+mud_brick_wall x6 <- crafting_shaped: mud_bricks
+mud_brick_wall x1 <- stonecutting: mud_bricks
+mud_bricks x4 <- crafting_shaped: packed_mud
+muddy_mangrove_roots x1 <- crafting_shapeless: mud, mangrove_roots
+mushroom_stew x1 <- crafting_shapeless: brown_mushroom, red_mushroom, bowl
+music_disc_5 x1 <- crafting_shapeless: disc_fragment_5, disc_fragment_5, disc_fragment_5, disc_fragment_5, disc_fragment_5, disc_fragment_5, disc_fragment_5, disc_fragment_5, disc_fragment_5
+name_tag x1 <- crafting_shaped: paper, #metal_nuggets
+nether_brick x1 <- smelting: netherrack
+nether_brick_fence x6 <- crafting_shaped: nether_brick, nether_bricks
+nether_brick_slab x6 <- crafting_shaped: nether_bricks
+nether_brick_slab x2 <- stonecutting: nether_bricks
+nether_brick_stairs x4 <- crafting_shaped: nether_bricks
+nether_brick_stairs x1 <- stonecutting: nether_bricks
+nether_brick_wall x6 <- crafting_shaped: nether_bricks
+nether_brick_wall x1 <- stonecutting: nether_bricks
+nether_bricks x1 <- crafting_shaped: nether_brick
+nether_wart_block x1 <- crafting_shapeless: nether_wart, nether_wart, nether_wart, nether_wart, nether_wart, nether_wart, nether_wart, nether_wart, nether_wart
+netherite_axe x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_axe, #netherite_tool_materials
+netherite_block x1 <- crafting_shaped: netherite_ingot
+netherite_boots x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_boots, #netherite_tool_materials
+netherite_chestplate x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_chestplate, #netherite_tool_materials
+netherite_helmet x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_helmet, #netherite_tool_materials
+netherite_hoe x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_hoe, #netherite_tool_materials
+netherite_horse_armor x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_horse_armor, #netherite_tool_materials
+netherite_ingot x1 <- crafting_shapeless: netherite_scrap, netherite_scrap, netherite_scrap, netherite_scrap, gold_ingot, gold_ingot, gold_ingot, gold_ingot
+netherite_ingot x9 <- crafting_shapeless: netherite_block
+netherite_leggings x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_leggings, #netherite_tool_materials
+netherite_nautilus_armor x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_nautilus_armor, #netherite_tool_materials
+netherite_pickaxe x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_pickaxe, #netherite_tool_materials
+netherite_scrap x1 <- smelting: ancient_debris
+netherite_scrap x1 <- blasting: ancient_debris
+netherite_shovel x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_shovel, #netherite_tool_materials
+netherite_spear x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_spear, #netherite_tool_materials
+netherite_sword x1 <- smithing_transform: netherite_upgrade_smithing_template, diamond_sword, #netherite_tool_materials
+netherite_upgrade_smithing_template x2 <- crafting_shaped: diamond, netherrack, netherite_upgrade_smithing_template
+note_block x1 <- crafting_shaped: #planks, redstone
+oak_boat x1 <- crafting_shaped: oak_planks
+oak_button x1 <- crafting_shapeless: oak_planks
+oak_chest_boat x1 <- crafting_shapeless: chest, oak_boat
+oak_door x3 <- crafting_shaped: oak_planks
+oak_fence x3 <- crafting_shaped: stick, oak_planks
+oak_fence_gate x1 <- crafting_shaped: stick, oak_planks
+oak_hanging_sign x6 <- crafting_shaped: stripped_oak_log, iron_chain
+oak_planks x4 <- crafting_shapeless: #oak_logs
+oak_pressure_plate x1 <- crafting_shaped: oak_planks
+oak_shelf x6 <- crafting_shaped: stripped_oak_log
+oak_sign x3 <- crafting_shaped: oak_planks, stick
+oak_slab x6 <- crafting_shaped: oak_planks
+oak_stairs x4 <- crafting_shaped: oak_planks
+oak_trapdoor x2 <- crafting_shaped: oak_planks
+oak_wood x3 <- crafting_shaped: oak_log
+observer x1 <- crafting_shaped: cobblestone, quartz, redstone
+orange_banner x1 <- crafting_shaped: orange_wool, stick
+orange_banner x1 <- crafting_special_bannerduplicate: 
+orange_bed x1 <- crafting_shaped: orange_wool, #planks
+orange_bundle x1 <- crafting_transmute: #bundles, orange_dye
+orange_candle x1 <- crafting_shapeless: candle, orange_dye
+orange_carpet x3 <- crafting_shaped: orange_wool
+orange_concrete_powder x8 <- crafting_shapeless: orange_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+orange_dye x1 <- crafting_shapeless: open_eyeblossom
+orange_dye x1 <- crafting_shapeless: orange_tulip
+orange_dye x2 <- crafting_shapeless: red_dye, yellow_dye
+orange_dye x1 <- crafting_shapeless: torchflower
+orange_glazed_terracotta x1 <- smelting: orange_terracotta
+orange_harness x1 <- crafting_shaped: orange_wool, glass, leather
+orange_shulker_box x1 <- crafting_transmute: #shulker_boxes, orange_dye
+orange_stained_glass x8 <- crafting_shaped: glass, orange_dye
+orange_stained_glass_pane x16 <- crafting_shaped: orange_stained_glass
+orange_stained_glass_pane x8 <- crafting_shaped: glass_pane, orange_dye
+orange_terracotta x8 <- crafting_shaped: terracotta, orange_dye
+oxidized_chiseled_copper x1 <- crafting_shaped: oxidized_cut_copper_slab
+oxidized_chiseled_copper x4 <- stonecutting: oxidized_copper
+oxidized_chiseled_copper x1 <- stonecutting: oxidized_cut_copper
+oxidized_copper_bulb x4 <- crafting_shaped: blaze_rod, oxidized_copper, redstone
+oxidized_copper_grate x4 <- crafting_shaped: oxidized_copper
+oxidized_copper_grate x4 <- stonecutting: oxidized_copper
+oxidized_cut_copper x4 <- crafting_shaped: oxidized_copper
+oxidized_cut_copper x4 <- stonecutting: oxidized_copper
+oxidized_cut_copper_slab x6 <- crafting_shaped: oxidized_cut_copper
+oxidized_cut_copper_slab x8 <- stonecutting: oxidized_copper
+oxidized_cut_copper_slab x2 <- stonecutting: oxidized_cut_copper
+oxidized_cut_copper_stairs x4 <- crafting_shaped: oxidized_cut_copper
+oxidized_cut_copper_stairs x4 <- stonecutting: oxidized_copper
+oxidized_cut_copper_stairs x1 <- stonecutting: oxidized_cut_copper
+packed_ice x1 <- crafting_shapeless: ice, ice, ice, ice, ice, ice, ice, ice, ice
+packed_mud x1 <- crafting_shapeless: mud, wheat
+painting x1 <- crafting_shaped: stick, #wool
+pale_moss_carpet x3 <- crafting_shaped: pale_moss_block
+pale_oak_boat x1 <- crafting_shaped: pale_oak_planks
+pale_oak_button x1 <- crafting_shapeless: pale_oak_planks
+pale_oak_chest_boat x1 <- crafting_shapeless: chest, pale_oak_boat
+pale_oak_door x3 <- crafting_shaped: pale_oak_planks
+pale_oak_fence x3 <- crafting_shaped: stick, pale_oak_planks
+pale_oak_fence_gate x1 <- crafting_shaped: stick, pale_oak_planks
+pale_oak_hanging_sign x6 <- crafting_shaped: stripped_pale_oak_log, iron_chain
+pale_oak_planks x4 <- crafting_shapeless: #pale_oak_logs
+pale_oak_pressure_plate x1 <- crafting_shaped: pale_oak_planks
+pale_oak_shelf x6 <- crafting_shaped: stripped_pale_oak_log
+pale_oak_sign x3 <- crafting_shaped: pale_oak_planks, stick
+pale_oak_slab x6 <- crafting_shaped: pale_oak_planks
+pale_oak_stairs x4 <- crafting_shaped: pale_oak_planks
+pale_oak_trapdoor x2 <- crafting_shaped: pale_oak_planks
+pale_oak_wood x3 <- crafting_shaped: pale_oak_log
+paper x3 <- crafting_shaped: sugar_cane
+pink_banner x1 <- crafting_shaped: pink_wool, stick
+pink_banner x1 <- crafting_special_bannerduplicate: 
+pink_bed x1 <- crafting_shaped: pink_wool, #planks
+pink_bundle x1 <- crafting_transmute: #bundles, pink_dye
+pink_candle x1 <- crafting_shapeless: candle, pink_dye
+pink_carpet x3 <- crafting_shaped: pink_wool
+pink_concrete_powder x8 <- crafting_shapeless: pink_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+pink_dye x1 <- crafting_shapeless: cactus_flower
+pink_dye x2 <- crafting_shapeless: peony
+pink_dye x1 <- crafting_shapeless: pink_petals
+pink_dye x1 <- crafting_shapeless: pink_tulip
+pink_dye x2 <- crafting_shapeless: red_dye, white_dye
+pink_glazed_terracotta x1 <- smelting: pink_terracotta
+pink_harness x1 <- crafting_shaped: pink_wool, glass, leather
+pink_shulker_box x1 <- crafting_transmute: #shulker_boxes, pink_dye
+pink_stained_glass x8 <- crafting_shaped: glass, pink_dye
+pink_stained_glass_pane x16 <- crafting_shaped: pink_stained_glass
+pink_stained_glass_pane x8 <- crafting_shaped: glass_pane, pink_dye
+pink_terracotta x8 <- crafting_shaped: terracotta, pink_dye
+piston x1 <- crafting_shaped: cobblestone, redstone, #planks, iron_ingot
+polished_andesite x4 <- crafting_shaped: andesite
+polished_andesite x1 <- stonecutting: andesite
+polished_andesite_slab x6 <- crafting_shaped: polished_andesite
+polished_andesite_slab x2 <- stonecutting: andesite
+polished_andesite_slab x2 <- stonecutting: polished_andesite
+polished_andesite_stairs x4 <- crafting_shaped: polished_andesite
+polished_andesite_stairs x1 <- stonecutting: andesite
+polished_andesite_stairs x1 <- stonecutting: polished_andesite
+polished_basalt x4 <- crafting_shaped: basalt
+polished_basalt x1 <- stonecutting: basalt
+polished_blackstone x4 <- crafting_shaped: blackstone
+polished_blackstone_brick_slab x6 <- crafting_shaped: polished_blackstone_bricks
+polished_blackstone_brick_slab x2 <- stonecutting: blackstone
+polished_blackstone_brick_slab x2 <- stonecutting: polished_blackstone_bricks
+polished_blackstone_brick_slab x2 <- stonecutting: polished_blackstone
+polished_blackstone_brick_stairs x4 <- crafting_shaped: polished_blackstone_bricks
+polished_blackstone_brick_stairs x1 <- stonecutting: blackstone
+polished_blackstone_brick_stairs x1 <- stonecutting: polished_blackstone_bricks
+polished_blackstone_brick_stairs x1 <- stonecutting: polished_blackstone
+polished_blackstone_brick_wall x6 <- crafting_shaped: polished_blackstone_bricks
+polished_blackstone_brick_wall x1 <- stonecutting: blackstone
+polished_blackstone_brick_wall x1 <- stonecutting: polished_blackstone_bricks
+polished_blackstone_brick_wall x1 <- stonecutting: polished_blackstone
+polished_blackstone_bricks x4 <- crafting_shaped: polished_blackstone
+polished_blackstone_bricks x1 <- stonecutting: blackstone
+polished_blackstone_bricks x1 <- stonecutting: polished_blackstone
+polished_blackstone_button x1 <- crafting_shapeless: polished_blackstone
+polished_blackstone x1 <- stonecutting: blackstone
+polished_blackstone_pressure_plate x1 <- crafting_shaped: polished_blackstone
+polished_blackstone_slab x6 <- crafting_shaped: polished_blackstone
+polished_blackstone_slab x2 <- stonecutting: blackstone
+polished_blackstone_slab x2 <- stonecutting: polished_blackstone
+polished_blackstone_stairs x4 <- crafting_shaped: polished_blackstone
+polished_blackstone_stairs x1 <- stonecutting: blackstone
+polished_blackstone_stairs x1 <- stonecutting: polished_blackstone
+polished_blackstone_wall x6 <- crafting_shaped: polished_blackstone
+polished_blackstone_wall x1 <- stonecutting: blackstone
+polished_blackstone_wall x1 <- stonecutting: polished_blackstone
+polished_cinnabar x4 <- crafting_shaped: cinnabar
+polished_cinnabar x1 <- stonecutting: cinnabar
+polished_cinnabar_slab x6 <- crafting_shaped: polished_cinnabar
+polished_cinnabar_slab x2 <- stonecutting: cinnabar
+polished_cinnabar_slab x2 <- stonecutting: polished_cinnabar
+polished_cinnabar_stairs x4 <- crafting_shaped: polished_cinnabar
+polished_cinnabar_stairs x1 <- stonecutting: cinnabar
+polished_cinnabar_stairs x1 <- stonecutting: polished_cinnabar
+polished_cinnabar_wall x6 <- crafting_shaped: polished_cinnabar
+polished_cinnabar_wall x1 <- stonecutting: cinnabar
+polished_cinnabar_wall x1 <- stonecutting: polished_cinnabar
+polished_deepslate x4 <- crafting_shaped: cobbled_deepslate
+polished_deepslate x1 <- stonecutting: cobbled_deepslate
+polished_deepslate x1 <- stonecutting: deepslate
+polished_deepslate_slab x6 <- crafting_shaped: polished_deepslate
+polished_deepslate_slab x2 <- stonecutting: cobbled_deepslate
+polished_deepslate_slab x2 <- stonecutting: deepslate
+polished_deepslate_slab x2 <- stonecutting: polished_deepslate
+polished_deepslate_stairs x4 <- crafting_shaped: polished_deepslate
+polished_deepslate_stairs x1 <- stonecutting: cobbled_deepslate
+polished_deepslate_stairs x1 <- stonecutting: deepslate
+polished_deepslate_stairs x1 <- stonecutting: polished_deepslate
+polished_deepslate_wall x6 <- crafting_shaped: polished_deepslate
+polished_deepslate_wall x1 <- stonecutting: cobbled_deepslate
+polished_deepslate_wall x1 <- stonecutting: deepslate
+polished_deepslate_wall x1 <- stonecutting: polished_deepslate
+polished_diorite x4 <- crafting_shaped: diorite
+polished_diorite x1 <- stonecutting: diorite
+polished_diorite_slab x6 <- crafting_shaped: polished_diorite
+polished_diorite_slab x2 <- stonecutting: diorite
+polished_diorite_slab x2 <- stonecutting: polished_diorite
+polished_diorite_stairs x4 <- crafting_shaped: polished_diorite
+polished_diorite_stairs x1 <- stonecutting: diorite
+polished_diorite_stairs x1 <- stonecutting: polished_diorite
+polished_granite x4 <- crafting_shaped: granite
+polished_granite x1 <- stonecutting: granite
+polished_granite_slab x6 <- crafting_shaped: polished_granite
+polished_granite_slab x2 <- stonecutting: granite
+polished_granite_slab x2 <- stonecutting: polished_granite
+polished_granite_stairs x4 <- crafting_shaped: polished_granite
+polished_granite_stairs x1 <- stonecutting: granite
+polished_granite_stairs x1 <- stonecutting: polished_granite
+polished_sulfur x4 <- crafting_shaped: sulfur
+polished_sulfur x1 <- stonecutting: sulfur
+polished_sulfur_slab x6 <- crafting_shaped: polished_sulfur
+polished_sulfur_slab x2 <- stonecutting: polished_sulfur
+polished_sulfur_slab x2 <- stonecutting: sulfur
+polished_sulfur_stairs x4 <- crafting_shaped: polished_sulfur
+polished_sulfur_stairs x1 <- stonecutting: polished_sulfur
+polished_sulfur_stairs x1 <- stonecutting: sulfur
+polished_sulfur_wall x6 <- crafting_shaped: polished_sulfur
+polished_sulfur_wall x1 <- stonecutting: polished_sulfur
+polished_sulfur_wall x1 <- stonecutting: sulfur
+polished_tuff x4 <- crafting_shaped: tuff
+polished_tuff x1 <- stonecutting: tuff
+polished_tuff_slab x6 <- crafting_shaped: polished_tuff
+polished_tuff_slab x2 <- stonecutting: polished_tuff
+polished_tuff_slab x2 <- stonecutting: tuff
+polished_tuff_stairs x4 <- crafting_shaped: polished_tuff
+polished_tuff_stairs x1 <- stonecutting: polished_tuff
+polished_tuff_stairs x1 <- stonecutting: tuff
+polished_tuff_wall x6 <- crafting_shaped: polished_tuff
+polished_tuff_wall x1 <- stonecutting: polished_tuff
+polished_tuff_wall x1 <- stonecutting: tuff
+popped_chorus_fruit x1 <- smelting: chorus_fruit
+potent_sulfur x1 <- crafting_shapeless: sulfur, sulfur, sulfur, sulfur, sulfur, sulfur, sulfur, sulfur, sulfur
+powered_rail x6 <- crafting_shaped: stick, redstone, gold_ingot
+prismarine x1 <- crafting_shaped: prismarine_shard
+prismarine_brick_slab x6 <- crafting_shaped: prismarine_bricks
+prismarine_brick_slab x2 <- stonecutting: prismarine_bricks
+prismarine_brick_stairs x4 <- crafting_shaped: prismarine_bricks
+prismarine_brick_stairs x1 <- stonecutting: prismarine_bricks
+prismarine_bricks x1 <- crafting_shapeless: prismarine_shard, prismarine_shard, prismarine_shard, prismarine_shard, prismarine_shard, prismarine_shard, prismarine_shard, prismarine_shard, prismarine_shard
+prismarine_slab x6 <- crafting_shaped: prismarine
+prismarine_slab x2 <- stonecutting: prismarine
+prismarine_stairs x4 <- crafting_shaped: prismarine
+prismarine_stairs x1 <- stonecutting: prismarine
+prismarine_wall x6 <- crafting_shaped: prismarine
+prismarine_wall x1 <- stonecutting: prismarine
+pumpkin_pie x1 <- crafting_shapeless: pumpkin, sugar, #eggs
+pumpkin_seeds x4 <- crafting_shapeless: pumpkin
+purple_banner x1 <- crafting_shaped: purple_wool, stick
+purple_banner x1 <- crafting_special_bannerduplicate: 
+purple_bed x1 <- crafting_shaped: purple_wool, #planks
+purple_bundle x1 <- crafting_transmute: #bundles, purple_dye
+purple_candle x1 <- crafting_shapeless: candle, purple_dye
+purple_carpet x3 <- crafting_shaped: purple_wool
+purple_concrete_powder x8 <- crafting_shapeless: purple_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+purple_dye x2 <- crafting_shapeless: blue_dye, red_dye
+purple_glazed_terracotta x1 <- smelting: purple_terracotta
+purple_harness x1 <- crafting_shaped: purple_wool, glass, leather
+purple_shulker_box x1 <- crafting_transmute: #shulker_boxes, purple_dye
+purple_stained_glass x8 <- crafting_shaped: glass, purple_dye
+purple_stained_glass_pane x16 <- crafting_shaped: purple_stained_glass
+purple_stained_glass_pane x8 <- crafting_shaped: glass_pane, purple_dye
+purple_terracotta x8 <- crafting_shaped: terracotta, purple_dye
+purpur_block x4 <- crafting_shaped: popped_chorus_fruit
+purpur_pillar x1 <- crafting_shaped: purpur_slab
+purpur_pillar x1 <- stonecutting: purpur_block
+purpur_slab x6 <- crafting_shaped: purpur_block|purpur_pillar
+purpur_slab x2 <- stonecutting: purpur_block
+purpur_stairs x4 <- crafting_shaped: purpur_block|purpur_pillar
+purpur_stairs x1 <- stonecutting: purpur_block
+quartz x1 <- smelting: nether_quartz_ore
+quartz_block x1 <- crafting_shaped: quartz
+quartz_bricks x4 <- crafting_shaped: quartz_block
+quartz_bricks x1 <- stonecutting: quartz_block
+quartz x1 <- blasting: nether_quartz_ore
+quartz_pillar x2 <- crafting_shaped: quartz_block
+quartz_pillar x1 <- stonecutting: quartz_block
+quartz_slab x6 <- crafting_shaped: chiseled_quartz_block|quartz_block|quartz_pillar
+quartz_slab x2 <- stonecutting: quartz_block
+quartz_stairs x4 <- crafting_shaped: chiseled_quartz_block|quartz_block|quartz_pillar
+quartz_stairs x1 <- stonecutting: quartz_block
+rabbit_stew x1 <- crafting_shapeless: baked_potato, cooked_rabbit, bowl, carrot, brown_mushroom
+rabbit_stew x1 <- crafting_shapeless: baked_potato, cooked_rabbit, bowl, carrot, red_mushroom
+rail x16 <- crafting_shaped: stick, iron_ingot
+raiser_armor_trim_smithing_template x2 <- crafting_shaped: diamond, terracotta, raiser_armor_trim_smithing_template
+raw_copper x9 <- crafting_shapeless: raw_copper_block
+raw_copper_block x1 <- crafting_shaped: raw_copper
+raw_gold x9 <- crafting_shapeless: raw_gold_block
+raw_gold_block x1 <- crafting_shaped: raw_gold
+raw_iron x9 <- crafting_shapeless: raw_iron_block
+raw_iron_block x1 <- crafting_shaped: raw_iron
+recovery_compass x1 <- crafting_shaped: compass, echo_shard
+red_banner x1 <- crafting_shaped: red_wool, stick
+red_banner x1 <- crafting_special_bannerduplicate: 
+red_bed x1 <- crafting_shaped: red_wool, #planks
+red_bundle x1 <- crafting_transmute: #bundles, red_dye
+red_candle x1 <- crafting_shapeless: candle, red_dye
+red_carpet x3 <- crafting_shaped: red_wool
+red_concrete_powder x8 <- crafting_shapeless: red_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+red_dye x1 <- crafting_shapeless: beetroot
+red_dye x1 <- crafting_shapeless: poppy
+red_dye x2 <- crafting_shapeless: rose_bush
+red_dye x1 <- crafting_shapeless: red_tulip
+red_glazed_terracotta x1 <- smelting: red_terracotta
+red_harness x1 <- crafting_shaped: red_wool, glass, leather
+red_nether_brick_slab x6 <- crafting_shaped: red_nether_bricks
+red_nether_brick_slab x2 <- stonecutting: red_nether_bricks
+red_nether_brick_stairs x4 <- crafting_shaped: red_nether_bricks
+red_nether_brick_stairs x1 <- stonecutting: red_nether_bricks
+red_nether_brick_wall x6 <- crafting_shaped: red_nether_bricks
+red_nether_brick_wall x1 <- stonecutting: red_nether_bricks
+red_nether_bricks x1 <- crafting_shaped: nether_brick, nether_wart
+red_sandstone x1 <- crafting_shaped: red_sand
+red_sandstone_slab x6 <- crafting_shaped: red_sandstone|chiseled_red_sandstone
+red_sandstone_slab x2 <- stonecutting: red_sandstone
+red_sandstone_stairs x4 <- crafting_shaped: red_sandstone|chiseled_red_sandstone|cut_red_sandstone
+red_sandstone_stairs x1 <- stonecutting: red_sandstone
+red_sandstone_wall x6 <- crafting_shaped: red_sandstone
+red_sandstone_wall x1 <- stonecutting: red_sandstone
+red_shulker_box x1 <- crafting_transmute: #shulker_boxes, red_dye
+red_stained_glass x8 <- crafting_shaped: glass, red_dye
+red_stained_glass_pane x16 <- crafting_shaped: red_stained_glass
+red_stained_glass_pane x8 <- crafting_shaped: glass_pane, red_dye
+red_terracotta x8 <- crafting_shaped: terracotta, red_dye
+redstone x9 <- crafting_shapeless: redstone_block
+redstone_block x1 <- crafting_shaped: redstone
+redstone x1 <- blasting: deepslate_redstone_ore
+redstone x1 <- blasting: redstone_ore
+redstone x1 <- smelting: deepslate_redstone_ore
+redstone x1 <- smelting: redstone_ore
+redstone_lamp x1 <- crafting_shaped: glowstone, redstone
+redstone_torch x1 <- crafting_shaped: stick, redstone
+repeater x1 <- crafting_shaped: redstone_torch, stone, redstone
+resin_block x1 <- crafting_shaped: resin_clump
+resin_brick x1 <- smelting: resin_clump
+resin_brick_slab x6 <- crafting_shaped: resin_bricks
+resin_brick_slab x2 <- stonecutting: resin_bricks
+resin_brick_stairs x4 <- crafting_shaped: resin_bricks
+resin_brick_stairs x1 <- stonecutting: resin_bricks
+resin_brick_wall x6 <- crafting_shaped: resin_bricks
+resin_brick_wall x1 <- stonecutting: resin_bricks
+resin_bricks x1 <- crafting_shaped: resin_brick
+resin_clump x9 <- crafting_shapeless: resin_block
+respawn_anchor x1 <- crafting_shaped: glowstone, crying_obsidian
+rib_armor_trim_smithing_template x2 <- crafting_shaped: diamond, netherrack, rib_armor_trim_smithing_template
+saddle x1 <- crafting_shaped: iron_ingot, leather
+sandstone x1 <- crafting_shaped: sand
+sandstone_slab x6 <- crafting_shaped: sandstone|chiseled_sandstone
+sandstone_slab x2 <- stonecutting: sandstone
+sandstone_stairs x4 <- crafting_shaped: sandstone|chiseled_sandstone|cut_sandstone
+sandstone_stairs x1 <- stonecutting: sandstone
+sandstone_wall x6 <- crafting_shaped: sandstone
+sandstone_wall x1 <- stonecutting: sandstone
+scaffolding x6 <- crafting_shaped: bamboo, string
+sea_lantern x1 <- crafting_shaped: prismarine_crystals, prismarine_shard
+sentry_armor_trim_smithing_template x2 <- crafting_shaped: diamond, cobblestone, sentry_armor_trim_smithing_template
+shaper_armor_trim_smithing_template x2 <- crafting_shaped: diamond, terracotta, shaper_armor_trim_smithing_template
+shears x1 <- crafting_shaped: iron_ingot
+shield x1 <- crafting_shaped: #wooden_tool_materials, iron_ingot
+shield x1 <- crafting_special_shielddecoration: 
+shulker_box x1 <- crafting_shaped: chest, shulker_shell
+silence_armor_trim_smithing_template x2 <- crafting_shaped: diamond, cobbled_deepslate, silence_armor_trim_smithing_template
+skull_banner_pattern x1 <- crafting_shapeless: paper, wither_skeleton_skull
+slime_ball x9 <- crafting_shapeless: slime_block
+slime_block x1 <- crafting_shaped: slime_ball
+smithing_table x1 <- crafting_shaped: #planks, iron_ingot
+smoker x1 <- crafting_shaped: #logs, furnace
+smooth_basalt x1 <- smelting: basalt
+smooth_quartz x1 <- smelting: quartz_block
+smooth_quartz_slab x6 <- crafting_shaped: smooth_quartz
+smooth_quartz_slab x2 <- stonecutting: smooth_quartz
+smooth_quartz_stairs x4 <- crafting_shaped: smooth_quartz
+smooth_quartz_stairs x1 <- stonecutting: smooth_quartz
+smooth_red_sandstone x1 <- smelting: red_sandstone
+smooth_red_sandstone_slab x6 <- crafting_shaped: smooth_red_sandstone
+smooth_red_sandstone_slab x2 <- stonecutting: smooth_red_sandstone
+smooth_red_sandstone_stairs x4 <- crafting_shaped: smooth_red_sandstone
+smooth_red_sandstone_stairs x1 <- stonecutting: smooth_red_sandstone
+smooth_sandstone x1 <- smelting: sandstone
+smooth_sandstone_slab x6 <- crafting_shaped: smooth_sandstone
+smooth_sandstone_slab x2 <- stonecutting: smooth_sandstone
+smooth_sandstone_stairs x4 <- crafting_shaped: smooth_sandstone
+smooth_sandstone_stairs x1 <- stonecutting: smooth_sandstone
+smooth_stone x1 <- smelting: stone
+smooth_stone_slab x6 <- crafting_shaped: smooth_stone
+smooth_stone_slab x2 <- stonecutting: smooth_stone
+snout_armor_trim_smithing_template x2 <- crafting_shaped: diamond, blackstone, snout_armor_trim_smithing_template
+snow x6 <- crafting_shaped: snow_block
+snow_block x1 <- crafting_shaped: snowball
+soul_campfire x1 <- crafting_shaped: #soul_fire_base_blocks, #logs, stick
+soul_lantern x1 <- crafting_shaped: soul_torch, iron_nugget
+soul_torch x4 <- crafting_shaped: stick, #soul_fire_base_blocks, coal|charcoal
+spectral_arrow x2 <- crafting_shaped: glowstone_dust, arrow
+spire_armor_trim_smithing_template x2 <- crafting_shaped: diamond, purpur_block, spire_armor_trim_smithing_template
+sponge x1 <- smelting: wet_sponge
+spruce_boat x1 <- crafting_shaped: spruce_planks
+spruce_button x1 <- crafting_shapeless: spruce_planks
+spruce_chest_boat x1 <- crafting_shapeless: chest, spruce_boat
+spruce_door x3 <- crafting_shaped: spruce_planks
+spruce_fence x3 <- crafting_shaped: stick, spruce_planks
+spruce_fence_gate x1 <- crafting_shaped: stick, spruce_planks
+spruce_hanging_sign x6 <- crafting_shaped: stripped_spruce_log, iron_chain
+spruce_planks x4 <- crafting_shapeless: #spruce_logs
+spruce_pressure_plate x1 <- crafting_shaped: spruce_planks
+spruce_shelf x6 <- crafting_shaped: stripped_spruce_log
+spruce_sign x3 <- crafting_shaped: spruce_planks, stick
+spruce_slab x6 <- crafting_shaped: spruce_planks
+spruce_stairs x4 <- crafting_shaped: spruce_planks
+spruce_trapdoor x2 <- crafting_shaped: spruce_planks
+spruce_wood x3 <- crafting_shaped: spruce_log
+spyglass x1 <- crafting_shaped: amethyst_shard, copper_ingot
+stick x4 <- crafting_shaped: #planks
+stick x1 <- crafting_shaped: bamboo
+sticky_piston x1 <- crafting_shaped: piston, slime_ball
+stone x1 <- smelting: cobblestone
+stone_axe x1 <- crafting_shaped: stick, #stone_tool_materials
+stone_brick_slab x6 <- crafting_shaped: stone_bricks
+stone_brick_slab x2 <- stonecutting: stone_bricks
+stone_brick_slab x2 <- stonecutting: stone
+stone_brick_stairs x4 <- crafting_shaped: stone_bricks
+stone_brick_stairs x1 <- stonecutting: stone_bricks
+stone_brick_stairs x1 <- stonecutting: stone
+stone_brick_wall x6 <- crafting_shaped: stone_bricks
+stone_brick_wall x1 <- stonecutting: stone_bricks
+stone_brick_wall x1 <- stonecutting: stone
+stone_bricks x4 <- crafting_shaped: stone
+stone_bricks x1 <- stonecutting: stone
+stone_button x1 <- crafting_shapeless: stone
+stone_hoe x1 <- crafting_shaped: stick, #stone_tool_materials
+stone_pickaxe x1 <- crafting_shaped: stick, #stone_tool_materials
+stone_pressure_plate x1 <- crafting_shaped: stone
+stone_shovel x1 <- crafting_shaped: stick, #stone_tool_materials
+stone_slab x6 <- crafting_shaped: stone
+stone_slab x2 <- stonecutting: stone
+stone_spear x1 <- crafting_shaped: stick, #stone_tool_materials
+stone_stairs x4 <- crafting_shaped: stone
+stone_stairs x1 <- stonecutting: stone
+stone_sword x1 <- crafting_shaped: stick, #stone_tool_materials
+stonecutter x1 <- crafting_shaped: stone, iron_ingot
+stripped_acacia_wood x3 <- crafting_shaped: stripped_acacia_log
+stripped_birch_wood x3 <- crafting_shaped: stripped_birch_log
+stripped_cherry_wood x3 <- crafting_shaped: stripped_cherry_log
+stripped_crimson_hyphae x3 <- crafting_shaped: stripped_crimson_stem
+stripped_dark_oak_wood x3 <- crafting_shaped: stripped_dark_oak_log
+stripped_jungle_wood x3 <- crafting_shaped: stripped_jungle_log
+stripped_mangrove_wood x3 <- crafting_shaped: stripped_mangrove_log
+stripped_oak_wood x3 <- crafting_shaped: stripped_oak_log
+stripped_pale_oak_wood x3 <- crafting_shaped: stripped_pale_oak_log
+stripped_spruce_wood x3 <- crafting_shaped: stripped_spruce_log
+stripped_warped_hyphae x3 <- crafting_shaped: stripped_warped_stem
+sugar x3 <- crafting_shapeless: honey_bottle
+sugar x1 <- crafting_shapeless: sugar_cane
+sulfur_brick_slab x6 <- crafting_shaped: sulfur_bricks
+sulfur_brick_slab x2 <- stonecutting: polished_sulfur
+sulfur_brick_slab x2 <- stonecutting: sulfur_bricks
+sulfur_brick_slab x2 <- stonecutting: sulfur
+sulfur_brick_stairs x4 <- crafting_shaped: sulfur_bricks
+sulfur_brick_stairs x1 <- stonecutting: polished_sulfur
+sulfur_brick_stairs x1 <- stonecutting: sulfur_bricks
+sulfur_brick_stairs x1 <- stonecutting: sulfur
+sulfur_brick_wall x6 <- crafting_shaped: sulfur_bricks
+sulfur_brick_wall x1 <- stonecutting: polished_sulfur
+sulfur_brick_wall x1 <- stonecutting: sulfur_bricks
+sulfur_brick_wall x1 <- stonecutting: sulfur
+sulfur_bricks x4 <- crafting_shaped: polished_sulfur
+sulfur_bricks x1 <- stonecutting: polished_sulfur
+sulfur_bricks x1 <- stonecutting: sulfur
+sulfur x1 <- crafting_shaped: sulfur_spike
+sulfur_slab x6 <- crafting_shaped: sulfur
+sulfur_slab x2 <- stonecutting: sulfur
+sulfur_stairs x4 <- crafting_shaped: sulfur
+sulfur_stairs x1 <- stonecutting: sulfur
+sulfur_wall x6 <- crafting_shaped: sulfur
+sulfur_wall x1 <- stonecutting: sulfur
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, allium
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, azure_bluet
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, blue_orchid
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, closed_eyeblossom
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, cornflower
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, dandelion
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, golden_dandelion
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, lily_of_the_valley
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, open_eyeblossom
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, orange_tulip
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, oxeye_daisy
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, pink_tulip
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, poppy
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, red_tulip
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, torchflower
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, white_tulip
+suspicious_stew x1 <- crafting_shapeless: bowl, brown_mushroom, red_mushroom, wither_rose
+target x1 <- crafting_shaped: hay_block, redstone
+terracotta x1 <- smelting: clay
+tide_armor_trim_smithing_template x2 <- crafting_shaped: diamond, prismarine, tide_armor_trim_smithing_template
+tinted_glass x2 <- crafting_shaped: glass, amethyst_shard
+tipped_arrow x8 <- crafting_imbue: arrow
+tnt x1 <- crafting_shaped: sand|red_sand, gunpowder
+tnt_minecart x1 <- crafting_shapeless: tnt, minecart
+torch x4 <- crafting_shaped: stick, coal|charcoal
+trapped_chest x1 <- crafting_shapeless: chest, tripwire_hook
+tripwire_hook x2 <- crafting_shaped: #planks, iron_ingot, stick
+tuff_brick_slab x6 <- crafting_shaped: tuff_bricks
+tuff_brick_slab x2 <- stonecutting: polished_tuff
+tuff_brick_slab x2 <- stonecutting: tuff_bricks
+tuff_brick_slab x2 <- stonecutting: tuff
+tuff_brick_stairs x4 <- crafting_shaped: tuff_bricks
+tuff_brick_stairs x1 <- stonecutting: polished_tuff
+tuff_brick_stairs x1 <- stonecutting: tuff_bricks
+tuff_brick_stairs x1 <- stonecutting: tuff
+tuff_brick_wall x6 <- crafting_shaped: tuff_bricks
+tuff_brick_wall x1 <- stonecutting: polished_tuff
+tuff_brick_wall x1 <- stonecutting: tuff_bricks
+tuff_brick_wall x1 <- stonecutting: tuff
+tuff_bricks x4 <- crafting_shaped: polished_tuff
+tuff_bricks x1 <- stonecutting: polished_tuff
+tuff_bricks x1 <- stonecutting: tuff
+tuff_slab x6 <- crafting_shaped: tuff
+tuff_slab x2 <- stonecutting: tuff
+tuff_stairs x4 <- crafting_shaped: tuff
+tuff_stairs x1 <- stonecutting: tuff
+tuff_wall x6 <- crafting_shaped: tuff
+tuff_wall x1 <- stonecutting: tuff
+turtle_helmet x1 <- crafting_shaped: turtle_scute
+vex_armor_trim_smithing_template x2 <- crafting_shaped: diamond, cobblestone, vex_armor_trim_smithing_template
+ward_armor_trim_smithing_template x2 <- crafting_shaped: diamond, cobbled_deepslate, ward_armor_trim_smithing_template
+warped_button x1 <- crafting_shapeless: warped_planks
+warped_door x3 <- crafting_shaped: warped_planks
+warped_fence x3 <- crafting_shaped: stick, warped_planks
+warped_fence_gate x1 <- crafting_shaped: stick, warped_planks
+warped_fungus_on_a_stick x1 <- crafting_shaped: fishing_rod, warped_fungus
+warped_hanging_sign x6 <- crafting_shaped: stripped_warped_stem, iron_chain
+warped_hyphae x3 <- crafting_shaped: warped_stem
+warped_planks x4 <- crafting_shapeless: #warped_stems
+warped_pressure_plate x1 <- crafting_shaped: warped_planks
+warped_shelf x6 <- crafting_shaped: stripped_warped_stem
+warped_sign x3 <- crafting_shaped: warped_planks, stick
+warped_slab x6 <- crafting_shaped: warped_planks
+warped_stairs x4 <- crafting_shaped: warped_planks
+warped_trapdoor x2 <- crafting_shaped: warped_planks
+waxed_chiseled_copper x1 <- crafting_shaped: waxed_cut_copper_slab
+waxed_chiseled_copper x1 <- crafting_shapeless: chiseled_copper, honeycomb
+waxed_chiseled_copper x4 <- stonecutting: waxed_copper_block
+waxed_chiseled_copper x1 <- stonecutting: waxed_cut_copper
+waxed_copper_bars x1 <- crafting_shapeless: copper_bars, honeycomb
+waxed_copper_block x1 <- crafting_shapeless: copper_block, honeycomb
+waxed_copper_bulb x4 <- crafting_shaped: blaze_rod, waxed_copper_block, redstone
+waxed_copper_bulb x1 <- crafting_shapeless: copper_bulb, honeycomb
+waxed_copper_chain x1 <- crafting_shapeless: copper_chain, honeycomb
+waxed_copper_chest x1 <- crafting_shapeless: copper_chest, honeycomb
+waxed_copper_door x1 <- crafting_shapeless: copper_door, honeycomb
+waxed_copper_golem_statue x1 <- crafting_shapeless: copper_golem_statue, honeycomb
+waxed_copper_grate x4 <- crafting_shaped: waxed_copper_block
+waxed_copper_grate x1 <- crafting_shapeless: copper_grate, honeycomb
+waxed_copper_grate x4 <- stonecutting: waxed_copper_block
+waxed_copper_lantern x1 <- crafting_shapeless: copper_lantern, honeycomb
+waxed_copper_trapdoor x1 <- crafting_shapeless: copper_trapdoor, honeycomb
+waxed_cut_copper x4 <- crafting_shaped: waxed_copper_block
+waxed_cut_copper x1 <- crafting_shapeless: cut_copper, honeycomb
+waxed_cut_copper x4 <- stonecutting: waxed_copper_block
+waxed_cut_copper_slab x6 <- crafting_shaped: waxed_cut_copper
+waxed_cut_copper_slab x1 <- crafting_shapeless: cut_copper_slab, honeycomb
+waxed_cut_copper_slab x8 <- stonecutting: waxed_copper_block
+waxed_cut_copper_slab x2 <- stonecutting: waxed_cut_copper
+waxed_cut_copper_stairs x4 <- crafting_shaped: waxed_cut_copper
+waxed_cut_copper_stairs x1 <- crafting_shapeless: cut_copper_stairs, honeycomb
+waxed_cut_copper_stairs x4 <- stonecutting: waxed_copper_block
+waxed_cut_copper_stairs x1 <- stonecutting: waxed_cut_copper
+waxed_exposed_chiseled_copper x1 <- crafting_shaped: waxed_exposed_cut_copper_slab
+waxed_exposed_chiseled_copper x1 <- crafting_shapeless: exposed_chiseled_copper, honeycomb
+waxed_exposed_chiseled_copper x4 <- stonecutting: waxed_exposed_copper
+waxed_exposed_chiseled_copper x1 <- stonecutting: waxed_exposed_cut_copper
+waxed_exposed_copper_bars x1 <- crafting_shapeless: exposed_copper_bars, honeycomb
+waxed_exposed_copper_bulb x4 <- crafting_shaped: blaze_rod, waxed_exposed_copper, redstone
+waxed_exposed_copper_bulb x1 <- crafting_shapeless: exposed_copper_bulb, honeycomb
+waxed_exposed_copper_chain x1 <- crafting_shapeless: exposed_copper_chain, honeycomb
+waxed_exposed_copper_chest x1 <- crafting_shapeless: exposed_copper_chest, honeycomb
+waxed_exposed_copper_door x1 <- crafting_shapeless: exposed_copper_door, honeycomb
+waxed_exposed_copper x1 <- crafting_shapeless: exposed_copper, honeycomb
+waxed_exposed_copper_golem_statue x1 <- crafting_shapeless: exposed_copper_golem_statue, honeycomb
+waxed_exposed_copper_grate x4 <- crafting_shaped: waxed_exposed_copper
+waxed_exposed_copper_grate x1 <- crafting_shapeless: exposed_copper_grate, honeycomb
+waxed_exposed_copper_grate x4 <- stonecutting: waxed_exposed_copper
+waxed_exposed_copper_lantern x1 <- crafting_shapeless: exposed_copper_lantern, honeycomb
+waxed_exposed_copper_trapdoor x1 <- crafting_shapeless: exposed_copper_trapdoor, honeycomb
+waxed_exposed_cut_copper x4 <- crafting_shaped: waxed_exposed_copper
+waxed_exposed_cut_copper x1 <- crafting_shapeless: exposed_cut_copper, honeycomb
+waxed_exposed_cut_copper x4 <- stonecutting: waxed_exposed_copper
+waxed_exposed_cut_copper_slab x6 <- crafting_shaped: waxed_exposed_cut_copper
+waxed_exposed_cut_copper_slab x1 <- crafting_shapeless: exposed_cut_copper_slab, honeycomb
+waxed_exposed_cut_copper_slab x8 <- stonecutting: waxed_exposed_copper
+waxed_exposed_cut_copper_slab x2 <- stonecutting: waxed_exposed_cut_copper
+waxed_exposed_cut_copper_stairs x4 <- crafting_shaped: waxed_exposed_cut_copper
+waxed_exposed_cut_copper_stairs x1 <- crafting_shapeless: exposed_cut_copper_stairs, honeycomb
+waxed_exposed_cut_copper_stairs x4 <- stonecutting: waxed_exposed_copper
+waxed_exposed_cut_copper_stairs x1 <- stonecutting: waxed_exposed_cut_copper
+waxed_exposed_lightning_rod x1 <- crafting_shapeless: exposed_lightning_rod, honeycomb
+waxed_lightning_rod x1 <- crafting_shapeless: lightning_rod, honeycomb
+waxed_oxidized_chiseled_copper x1 <- crafting_shaped: waxed_oxidized_cut_copper_slab
+waxed_oxidized_chiseled_copper x1 <- crafting_shapeless: oxidized_chiseled_copper, honeycomb
+waxed_oxidized_chiseled_copper x4 <- stonecutting: waxed_oxidized_copper
+waxed_oxidized_chiseled_copper x1 <- stonecutting: waxed_oxidized_cut_copper
+waxed_oxidized_copper_bars x1 <- crafting_shapeless: oxidized_copper_bars, honeycomb
+waxed_oxidized_copper_bulb x4 <- crafting_shaped: blaze_rod, waxed_oxidized_copper, redstone
+waxed_oxidized_copper_bulb x1 <- crafting_shapeless: oxidized_copper_bulb, honeycomb
+waxed_oxidized_copper_chain x1 <- crafting_shapeless: oxidized_copper_chain, honeycomb
+waxed_oxidized_copper_chest x1 <- crafting_shapeless: oxidized_copper_chest, honeycomb
+waxed_oxidized_copper_door x1 <- crafting_shapeless: oxidized_copper_door, honeycomb
+waxed_oxidized_copper x1 <- crafting_shapeless: oxidized_copper, honeycomb
+waxed_oxidized_copper_golem_statue x1 <- crafting_shapeless: oxidized_copper_golem_statue, honeycomb
+waxed_oxidized_copper_grate x4 <- crafting_shaped: waxed_oxidized_copper
+waxed_oxidized_copper_grate x1 <- crafting_shapeless: oxidized_copper_grate, honeycomb
+waxed_oxidized_copper_grate x4 <- stonecutting: waxed_oxidized_copper
+waxed_oxidized_copper_lantern x1 <- crafting_shapeless: oxidized_copper_lantern, honeycomb
+waxed_oxidized_copper_trapdoor x1 <- crafting_shapeless: oxidized_copper_trapdoor, honeycomb
+waxed_oxidized_cut_copper x4 <- crafting_shaped: waxed_oxidized_copper
+waxed_oxidized_cut_copper x1 <- crafting_shapeless: oxidized_cut_copper, honeycomb
+waxed_oxidized_cut_copper x4 <- stonecutting: waxed_oxidized_copper
+waxed_oxidized_cut_copper_slab x6 <- crafting_shaped: waxed_oxidized_cut_copper
+waxed_oxidized_cut_copper_slab x1 <- crafting_shapeless: oxidized_cut_copper_slab, honeycomb
+waxed_oxidized_cut_copper_slab x8 <- stonecutting: waxed_oxidized_copper
+waxed_oxidized_cut_copper_slab x2 <- stonecutting: waxed_oxidized_cut_copper
+waxed_oxidized_cut_copper_stairs x4 <- crafting_shaped: waxed_oxidized_cut_copper
+waxed_oxidized_cut_copper_stairs x1 <- crafting_shapeless: oxidized_cut_copper_stairs, honeycomb
+waxed_oxidized_cut_copper_stairs x4 <- stonecutting: waxed_oxidized_copper
+waxed_oxidized_cut_copper_stairs x1 <- stonecutting: waxed_oxidized_cut_copper
+waxed_oxidized_lightning_rod x1 <- crafting_shapeless: oxidized_lightning_rod, honeycomb
+waxed_weathered_chiseled_copper x1 <- crafting_shaped: waxed_weathered_cut_copper_slab
+waxed_weathered_chiseled_copper x1 <- crafting_shapeless: weathered_chiseled_copper, honeycomb
+waxed_weathered_chiseled_copper x4 <- stonecutting: waxed_weathered_copper
+waxed_weathered_chiseled_copper x1 <- stonecutting: waxed_weathered_cut_copper
+waxed_weathered_copper_bars x1 <- crafting_shapeless: weathered_copper_bars, honeycomb
+waxed_weathered_copper_bulb x4 <- crafting_shaped: blaze_rod, waxed_weathered_copper, redstone
+waxed_weathered_copper_bulb x1 <- crafting_shapeless: weathered_copper_bulb, honeycomb
+waxed_weathered_copper_chain x1 <- crafting_shapeless: weathered_copper_chain, honeycomb
+waxed_weathered_copper_chest x1 <- crafting_shapeless: weathered_copper_chest, honeycomb
+waxed_weathered_copper_door x1 <- crafting_shapeless: weathered_copper_door, honeycomb
+waxed_weathered_copper x1 <- crafting_shapeless: weathered_copper, honeycomb
+waxed_weathered_copper_golem_statue x1 <- crafting_shapeless: weathered_copper_golem_statue, honeycomb
+waxed_weathered_copper_grate x4 <- crafting_shaped: waxed_weathered_copper
+waxed_weathered_copper_grate x1 <- crafting_shapeless: weathered_copper_grate, honeycomb
+waxed_weathered_copper_grate x4 <- stonecutting: waxed_weathered_copper
+waxed_weathered_copper_lantern x1 <- crafting_shapeless: weathered_copper_lantern, honeycomb
+waxed_weathered_copper_trapdoor x1 <- crafting_shapeless: weathered_copper_trapdoor, honeycomb
+waxed_weathered_cut_copper x4 <- crafting_shaped: waxed_weathered_copper
+waxed_weathered_cut_copper x1 <- crafting_shapeless: weathered_cut_copper, honeycomb
+waxed_weathered_cut_copper x4 <- stonecutting: waxed_weathered_copper
+waxed_weathered_cut_copper_slab x6 <- crafting_shaped: waxed_weathered_cut_copper
+waxed_weathered_cut_copper_slab x1 <- crafting_shapeless: weathered_cut_copper_slab, honeycomb
+waxed_weathered_cut_copper_slab x8 <- stonecutting: waxed_weathered_copper
+waxed_weathered_cut_copper_slab x2 <- stonecutting: waxed_weathered_cut_copper
+waxed_weathered_cut_copper_stairs x4 <- crafting_shaped: waxed_weathered_cut_copper
+waxed_weathered_cut_copper_stairs x1 <- crafting_shapeless: weathered_cut_copper_stairs, honeycomb
+waxed_weathered_cut_copper_stairs x4 <- stonecutting: waxed_weathered_copper
+waxed_weathered_cut_copper_stairs x1 <- stonecutting: waxed_weathered_cut_copper
+waxed_weathered_lightning_rod x1 <- crafting_shapeless: weathered_lightning_rod, honeycomb
+wayfinder_armor_trim_smithing_template x2 <- crafting_shaped: diamond, terracotta, wayfinder_armor_trim_smithing_template
+weathered_chiseled_copper x1 <- crafting_shaped: weathered_cut_copper_slab
+weathered_chiseled_copper x4 <- stonecutting: weathered_copper
+weathered_chiseled_copper x1 <- stonecutting: weathered_cut_copper
+weathered_copper_bulb x4 <- crafting_shaped: blaze_rod, weathered_copper, redstone
+weathered_copper_grate x4 <- crafting_shaped: weathered_copper
+weathered_copper_grate x4 <- stonecutting: weathered_copper
+weathered_cut_copper x4 <- crafting_shaped: weathered_copper
+weathered_cut_copper x4 <- stonecutting: weathered_copper
+weathered_cut_copper_slab x6 <- crafting_shaped: weathered_cut_copper
+weathered_cut_copper_slab x8 <- stonecutting: weathered_copper
+weathered_cut_copper_slab x2 <- stonecutting: weathered_cut_copper
+weathered_cut_copper_stairs x4 <- crafting_shaped: weathered_cut_copper
+weathered_cut_copper_stairs x4 <- stonecutting: weathered_copper
+weathered_cut_copper_stairs x1 <- stonecutting: weathered_cut_copper
+wheat x9 <- crafting_shapeless: hay_block
+white_banner x1 <- crafting_shaped: white_wool, stick
+white_banner x1 <- crafting_special_bannerduplicate: 
+white_bed x1 <- crafting_shaped: white_wool, #planks
+white_bundle x1 <- crafting_transmute: #bundles, white_dye
+white_candle x1 <- crafting_shapeless: candle, white_dye
+white_carpet x3 <- crafting_shaped: white_wool
+white_concrete_powder x8 <- crafting_shapeless: white_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+white_dye x1 <- crafting_shapeless: bone_meal
+white_dye x1 <- crafting_shapeless: lily_of_the_valley
+white_glazed_terracotta x1 <- smelting: white_terracotta
+white_harness x1 <- crafting_shaped: white_wool, glass, leather
+white_shulker_box x1 <- crafting_transmute: #shulker_boxes, white_dye
+white_stained_glass x8 <- crafting_shaped: glass, white_dye
+white_stained_glass_pane x16 <- crafting_shaped: white_stained_glass
+white_stained_glass_pane x8 <- crafting_shaped: glass_pane, white_dye
+white_terracotta x8 <- crafting_shaped: terracotta, white_dye
+white_wool x1 <- crafting_shaped: string
+wild_armor_trim_smithing_template x2 <- crafting_shaped: diamond, mossy_cobblestone, wild_armor_trim_smithing_template
+wind_charge x4 <- crafting_shapeless: breeze_rod
+wolf_armor x1 <- crafting_shaped: armadillo_scute
+wolf_armor x1 <- crafting_dye: 
+wooden_axe x1 <- crafting_shaped: stick, #wooden_tool_materials
+wooden_hoe x1 <- crafting_shaped: stick, #wooden_tool_materials
+wooden_pickaxe x1 <- crafting_shaped: stick, #wooden_tool_materials
+wooden_shovel x1 <- crafting_shaped: stick, #wooden_tool_materials
+wooden_spear x1 <- crafting_shaped: stick, #wooden_tool_materials
+wooden_sword x1 <- crafting_shaped: stick, #wooden_tool_materials
+writable_book x1 <- crafting_shapeless: book, ink_sac, feather
+yellow_banner x1 <- crafting_shaped: yellow_wool, stick
+yellow_banner x1 <- crafting_special_bannerduplicate: 
+yellow_bed x1 <- crafting_shaped: yellow_wool, #planks
+yellow_bundle x1 <- crafting_transmute: #bundles, yellow_dye
+yellow_candle x1 <- crafting_shapeless: candle, yellow_dye
+yellow_carpet x3 <- crafting_shaped: yellow_wool
+yellow_concrete_powder x8 <- crafting_shapeless: yellow_dye, sand, sand, sand, sand, gravel, gravel, gravel, gravel
+yellow_dye x1 <- crafting_shapeless: dandelion
+yellow_dye x1 <- crafting_shapeless: golden_dandelion
+yellow_dye x2 <- crafting_shapeless: sunflower
+yellow_dye x1 <- crafting_shapeless: wildflowers
+yellow_glazed_terracotta x1 <- smelting: yellow_terracotta
+yellow_harness x1 <- crafting_shaped: yellow_wool, glass, leather
+yellow_shulker_box x1 <- crafting_transmute: #shulker_boxes, yellow_dye
+yellow_stained_glass x8 <- crafting_shaped: glass, yellow_dye
+yellow_stained_glass_pane x16 <- crafting_shaped: yellow_stained_glass
+yellow_stained_glass_pane x8 <- crafting_shaped: glass_pane, yellow_dye
+yellow_terracotta x8 <- crafting_shaped: terracotta, yellow_dye
+
+## TAGS
+#acacia_logs: acacia_log, acacia_wood, stripped_acacia_log, stripped_acacia_wood
+#anvil: anvil, chipped_anvil, damaged_anvil
+#armadillo_food: spider_eye
+#arrows: arrow, tipped_arrow, spectral_arrow
+#axes: diamond_axe, stone_axe, golden_axe, netherite_axe, wooden_axe, iron_axe, copper_axe
+#axolotl_food: tropical_fish_bucket
+#bamboo_blocks: bamboo_block, stripped_bamboo_block
+#banners: white_banner, orange_banner, magenta_banner, light_blue_banner, yellow_banner, lime_banner, pink_banner, gray_banner, light_gray_banner, cyan_banner, purple_banner, blue_banner, brown_banner, green_banner, red_banner, black_banner
+#bars: iron_bars, copper_bars, exposed_copper_bars, weathered_copper_bars, oxidized_copper_bars, waxed_copper_bars, waxed_exposed_copper_bars, waxed_weathered_copper_bars, waxed_oxidized_copper_bars
+#beacon_payment_items: netherite_ingot, emerald, diamond, gold_ingot, iron_ingot
+#beds: white_bed, orange_bed, magenta_bed, light_blue_bed, yellow_bed, lime_bed, pink_bed, gray_bed, light_gray_bed, cyan_bed, purple_bed, blue_bed, brown_bed, green_bed, red_bed, black_bed
+#bee_food: dandelion, open_eyeblossom, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, wither_rose, torchflower, sunflower, lilac, peony, rose_bush, pitcher_plant, flowering_azalea_leaves, flowering_azalea, mangrove_propagule, cherry_leaves, pink_petals, wildflowers, chorus_flower, spore_blossom, cactus_flower
+#birch_logs: birch_log, birch_wood, stripped_birch_log, stripped_birch_wood
+#boats: oak_boat, spruce_boat, birch_boat, jungle_boat, acacia_boat, dark_oak_boat, pale_oak_boat, mangrove_boat, bamboo_raft, cherry_boat, #chest_boats
+#book_cloning_target: writable_book
+#bookshelf_books: book, written_book, enchanted_book, writable_book, knowledge_book
+#breaks_decorated_pots: #swords, #axes, #pickaxes, #shovels, #hoes, trident, mace
+#brewing_fuel: blaze_powder
+#bundles: bundle, white_bundle, orange_bundle, magenta_bundle, light_blue_bundle, yellow_bundle, lime_bundle, pink_bundle, gray_bundle, light_gray_bundle, cyan_bundle, purple_bundle, blue_bundle, brown_bundle, green_bundle, red_bundle, black_bundle
+#buttons: #wooden_buttons, #stone_buttons
+#camel_food: cactus
+#camel_husk_food: rabbit_foot
+#candles: candle, white_candle, orange_candle, magenta_candle, light_blue_candle, yellow_candle, lime_candle, pink_candle, gray_candle, light_gray_candle, cyan_candle, purple_candle, blue_candle, brown_candle, green_candle, red_candle, black_candle
+#cat_collar_dyes: #dyes
+#cat_food: cod, salmon
+#cauldron_can_remove_dye: leather_helmet, leather_chestplate, leather_leggings, leather_boots, leather_horse_armor, wolf_armor
+#chains: iron_chain, copper_chain, exposed_copper_chain, weathered_copper_chain, oxidized_copper_chain, waxed_copper_chain, waxed_exposed_copper_chain, waxed_weathered_copper_chain, waxed_oxidized_copper_chain
+#cherry_logs: cherry_log, cherry_wood, stripped_cherry_log, stripped_cherry_wood
+#chest_armor: leather_chestplate, copper_chestplate, chainmail_chestplate, golden_chestplate, iron_chestplate, diamond_chestplate, netherite_chestplate
+#chest_boats: oak_chest_boat, spruce_chest_boat, birch_chest_boat, jungle_chest_boat, acacia_chest_boat, dark_oak_chest_boat, pale_oak_chest_boat, mangrove_chest_boat, bamboo_chest_raft, cherry_chest_boat
+#chicken_food: wheat_seeds, melon_seeds, pumpkin_seeds, beetroot_seeds, torchflower_seeds, pitcher_pod
+#cluster_max_harvestables: diamond_pickaxe, golden_pickaxe, iron_pickaxe, netherite_pickaxe, stone_pickaxe, wooden_pickaxe, copper_pickaxe
+#coal_ores: coal_ore, deepslate_coal_ore
+#coals: coal, charcoal
+#compasses: compass, recovery_compass
+#completes_find_tree_tutorial: #logs, #leaves, #wart_blocks
+#concrete: white_concrete, orange_concrete, magenta_concrete, light_blue_concrete, yellow_concrete, lime_concrete, pink_concrete, gray_concrete, light_gray_concrete, cyan_concrete, purple_concrete, blue_concrete, brown_concrete, green_concrete, red_concrete, black_concrete
+#concrete_powders: white_concrete_powder, orange_concrete_powder, magenta_concrete_powder, light_blue_concrete_powder, yellow_concrete_powder, lime_concrete_powder, pink_concrete_powder, gray_concrete_powder, light_gray_concrete_powder, cyan_concrete_powder, purple_concrete_powder, blue_concrete_powder, brown_concrete_powder, green_concrete_powder, red_concrete_powder, black_concrete_powder
+#copper: copper_block, exposed_copper, weathered_copper, oxidized_copper, waxed_copper_block, waxed_exposed_copper, waxed_weathered_copper, waxed_oxidized_copper
+#copper_chests: copper_chest, exposed_copper_chest, weathered_copper_chest, oxidized_copper_chest, waxed_copper_chest, waxed_exposed_copper_chest, waxed_weathered_copper_chest, waxed_oxidized_copper_chest
+#copper_golem_statues: copper_golem_statue, exposed_copper_golem_statue, weathered_copper_golem_statue, oxidized_copper_golem_statue, waxed_copper_golem_statue, waxed_exposed_copper_golem_statue, waxed_weathered_copper_golem_statue, waxed_oxidized_copper_golem_statue
+#copper_ores: copper_ore, deepslate_copper_ore
+#copper_tool_materials: copper_ingot
+#cow_food: wheat
+#creeper_drop_music_discs: music_disc_13, music_disc_cat, music_disc_blocks, music_disc_chirp, music_disc_far, music_disc_mall, music_disc_mellohi, music_disc_stal, music_disc_strad, music_disc_ward, music_disc_11, music_disc_wait
+#creeper_igniters: flint_and_steel, fire_charge
+#crimson_stems: crimson_stem, stripped_crimson_stem, crimson_hyphae, stripped_crimson_hyphae
+#dampens_vibrations: #wool, #wool_carpets
+#dark_oak_logs: dark_oak_log, dark_oak_wood, stripped_dark_oak_log, stripped_dark_oak_wood
+#decorated_pot_ingredients: brick, #decorated_pot_sherds
+#decorated_pot_sherds: angler_pottery_sherd, archer_pottery_sherd, arms_up_pottery_sherd, blade_pottery_sherd, brewer_pottery_sherd, burn_pottery_sherd, danger_pottery_sherd, explorer_pottery_sherd, friend_pottery_sherd, heart_pottery_sherd, heartbreak_pottery_sherd, howl_pottery_sherd, miner_pottery_sherd, mourner_pottery_sherd, plenty_pottery_sherd, prize_pottery_sherd, sheaf_pottery_sherd, shelter_pottery_sherd, skull_pottery_sherd, snort_pottery_sherd, flow_pottery_sherd, guster_pottery_sherd, scrape_pottery_sherd
+#diamond_ores: diamond_ore, deepslate_diamond_ore
+#diamond_tool_materials: diamond
+#dirt: dirt, coarse_dirt, rooted_dirt
+#doors: #wooden_doors, copper_door, exposed_copper_door, weathered_copper_door, oxidized_copper_door, waxed_copper_door, waxed_exposed_copper_door, waxed_weathered_copper_door, waxed_oxidized_copper_door, iron_door
+#drowned_preferred_weapons: trident
+#duplicates_allays: amethyst_shard
+#dyes: white_dye, orange_dye, magenta_dye, light_blue_dye, yellow_dye, lime_dye, pink_dye, gray_dye, light_gray_dye, cyan_dye, purple_dye, blue_dye, brown_dye, green_dye, red_dye, black_dye
+#eggs: egg, blue_egg, brown_egg
+#emerald_ores: emerald_ore, deepslate_emerald_ore
+#enchantable/armor: #enchantable/foot_armor, #enchantable/leg_armor, #enchantable/chest_armor, #enchantable/head_armor
+#enchantable/bow: bow
+#enchantable/chest_armor: #chest_armor
+#enchantable/crossbow: crossbow
+#enchantable/durability: #foot_armor, #leg_armor, #chest_armor, #head_armor, elytra, shield, #swords, #axes, #pickaxes, #shovels, #hoes, bow, crossbow, trident, flint_and_steel, shears, brush, fishing_rod, carrot_on_a_stick, warped_fungus_on_a_stick, mace, #spears
+#enchantable/equippable: #foot_armor, #leg_armor, #chest_armor, #head_armor, elytra, #skulls, carved_pumpkin
+#enchantable/fire_aspect: #enchantable/melee_weapon, mace
+#enchantable/fishing: fishing_rod
+#enchantable/foot_armor: #foot_armor
+#enchantable/head_armor: #head_armor
+#enchantable/leg_armor: #leg_armor
+#enchantable/lunge: #spears
+#enchantable/mace: mace
+#enchantable/melee_weapon: #swords, #spears
+#enchantable/mining: #axes, #pickaxes, #shovels, #hoes, shears
+#enchantable/mining_loot: #axes, #pickaxes, #shovels, #hoes
+#enchantable/sharp_weapon: #enchantable/melee_weapon, #axes
+#enchantable/sweeping: #swords
+#enchantable/trident: trident
+#enchantable/vanishing: #enchantable/durability, compass, carved_pumpkin, #skulls
+#enchantable/weapon: #enchantable/sharp_weapon, mace
+#fence_gates: acacia_fence_gate, birch_fence_gate, dark_oak_fence_gate, pale_oak_fence_gate, jungle_fence_gate, oak_fence_gate, spruce_fence_gate, crimson_fence_gate, warped_fence_gate, mangrove_fence_gate, bamboo_fence_gate, cherry_fence_gate
+#fences: #wooden_fences, nether_brick_fence
+#fishes: cod, cooked_cod, salmon, cooked_salmon, pufferfish, tropical_fish
+#flowers: #small_flowers, sunflower, lilac, peony, rose_bush, pitcher_plant, flowering_azalea_leaves, flowering_azalea, mangrove_propagule, cherry_leaves, pink_petals, wildflowers, chorus_flower, spore_blossom, cactus_flower
+#foot_armor: leather_boots, copper_boots, chainmail_boots, golden_boots, iron_boots, diamond_boots, netherite_boots
+#fox_food: sweet_berries, glow_berries
+#freeze_immune_wearables: leather_boots, leather_leggings, leather_chestplate, leather_helmet, leather_horse_armor
+#frog_food: slime_ball
+#furnace_minecart_fuel: coal, charcoal
+#gaze_disguise_equipment: carved_pumpkin
+#glazed_terracotta: white_glazed_terracotta, orange_glazed_terracotta, magenta_glazed_terracotta, light_blue_glazed_terracotta, yellow_glazed_terracotta, lime_glazed_terracotta, pink_glazed_terracotta, gray_glazed_terracotta, light_gray_glazed_terracotta, cyan_glazed_terracotta, purple_glazed_terracotta, blue_glazed_terracotta, brown_glazed_terracotta, green_glazed_terracotta, red_glazed_terracotta, black_glazed_terracotta
+#goat_food: wheat
+#gold_ores: gold_ore, nether_gold_ore, deepslate_gold_ore
+#gold_tool_materials: gold_ingot
+#grass_blocks: grass_block, podzol, mycelium
+#hanging_signs: oak_hanging_sign, spruce_hanging_sign, birch_hanging_sign, acacia_hanging_sign, cherry_hanging_sign, jungle_hanging_sign, dark_oak_hanging_sign, pale_oak_hanging_sign, crimson_hanging_sign, warped_hanging_sign, mangrove_hanging_sign, bamboo_hanging_sign
+#happy_ghast_food: snowball
+#happy_ghast_tempt_items: #happy_ghast_food, #harnesses
+#harnesses: white_harness, orange_harness, magenta_harness, light_blue_harness, yellow_harness, lime_harness, pink_harness, gray_harness, light_gray_harness, cyan_harness, purple_harness, blue_harness, brown_harness, green_harness, red_harness, black_harness
+#head_armor: leather_helmet, copper_helmet, chainmail_helmet, golden_helmet, iron_helmet, diamond_helmet, netherite_helmet, turtle_helmet
+#hoes: diamond_hoe, stone_hoe, golden_hoe, netherite_hoe, wooden_hoe, iron_hoe, copper_hoe
+#hoglin_food: crimson_fungus
+#horse_food: wheat, sugar, hay_block, apple, carrot, golden_carrot, golden_apple, enchanted_golden_apple
+#horse_tempt_items: golden_carrot, golden_apple, enchanted_golden_apple
+#ignored_by_piglin_babies: leather
+#iron_ores: iron_ore, deepslate_iron_ore
+#iron_tool_materials: iron_ingot
+#jungle_logs: jungle_log, jungle_wood, stripped_jungle_log, stripped_jungle_wood
+#lanterns: lantern, soul_lantern, copper_lantern, exposed_copper_lantern, weathered_copper_lantern, oxidized_copper_lantern, waxed_copper_lantern, waxed_exposed_copper_lantern, waxed_weathered_copper_lantern, waxed_oxidized_copper_lantern
+#lapis_ores: lapis_ore, deepslate_lapis_ore
+#leaves: jungle_leaves, oak_leaves, spruce_leaves, pale_oak_leaves, dark_oak_leaves, acacia_leaves, birch_leaves, azalea_leaves, flowering_azalea_leaves, mangrove_leaves, cherry_leaves
+#lectern_books: written_book, writable_book
+#leg_armor: leather_leggings, copper_leggings, chainmail_leggings, golden_leggings, iron_leggings, diamond_leggings, netherite_leggings
+#lightning_rods: lightning_rod, exposed_lightning_rod, weathered_lightning_rod, oxidized_lightning_rod, waxed_lightning_rod, waxed_exposed_lightning_rod, waxed_weathered_lightning_rod, waxed_oxidized_lightning_rod
+#llama_food: wheat, hay_block
+#llama_tempt_items: hay_block
+#logs: #logs_that_burn, #crimson_stems, #warped_stems
+#logs_that_burn: #dark_oak_logs, #pale_oak_logs, #oak_logs, #acacia_logs, #birch_logs, #jungle_logs, #spruce_logs, #mangrove_logs, #cherry_logs
+#loom_dyes: #dyes
+#loom_patterns: flower_banner_pattern, creeper_banner_pattern, skull_banner_pattern, mojang_banner_pattern, globe_banner_pattern, piglin_banner_pattern, flow_banner_pattern, guster_banner_pattern, field_masoned_banner_pattern, bordure_indented_banner_pattern
+#mangrove_logs: mangrove_log, mangrove_wood, stripped_mangrove_log, stripped_mangrove_wood
+#map_invisibility_equipment: carved_pumpkin
+#meat: beef, chicken, cooked_beef, cooked_chicken, cooked_mutton, cooked_porkchop, cooked_rabbit, mutton, porkchop, rabbit, rotten_flesh
+#metal_nuggets: copper_nugget, iron_nugget, gold_nugget
+#moss_blocks: moss_block, pale_moss_block
+#mud: mud, muddy_mangrove_roots
+#nautilus_bucket_food: pufferfish_bucket, cod_bucket, salmon_bucket, tropical_fish_bucket
+#nautilus_food: #fishes, #nautilus_bucket_food
+#nautilus_taming_items: pufferfish_bucket, pufferfish
+#netherite_tool_materials: netherite_ingot
+#non_flammable_wood: warped_stem, stripped_warped_stem, warped_hyphae, stripped_warped_hyphae, crimson_stem, stripped_crimson_stem, crimson_hyphae, stripped_crimson_hyphae, crimson_planks, warped_planks, crimson_slab, warped_slab, crimson_pressure_plate, warped_pressure_plate, crimson_fence, warped_fence, crimson_trapdoor, warped_trapdoor, crimson_fence_gate, warped_fence_gate, crimson_stairs, warped_stairs, crimson_button, warped_button, crimson_door, warped_door, crimson_sign, warped_sign, warped_hanging_sign, crimson_hanging_sign, warped_shelf, crimson_shelf
+#noteblock_top_instruments: zombie_head, skeleton_skull, creeper_head, dragon_head, wither_skeleton_skull, piglin_head, player_head
+#oak_logs: oak_log, oak_wood, stripped_oak_log, stripped_oak_wood
+#ocelot_food: cod, salmon
+#pale_oak_logs: pale_oak_log, pale_oak_wood, stripped_pale_oak_log, stripped_pale_oak_wood
+#panda_eats_from_ground: #panda_food, cake
+#panda_food: bamboo
+#parrot_food: wheat_seeds, melon_seeds, pumpkin_seeds, beetroot_seeds, torchflower_seeds, pitcher_pod
+#parrot_poisonous_food: cookie
+#pickaxes: diamond_pickaxe, stone_pickaxe, golden_pickaxe, netherite_pickaxe, wooden_pickaxe, iron_pickaxe, copper_pickaxe
+#pig_food: carrot, potato, beetroot
+#piglin_food: porkchop, cooked_porkchop
+#piglin_loved: #gold_ores, gold_block, gilded_blackstone, light_weighted_pressure_plate, gold_ingot, bell, clock, golden_carrot, glistering_melon_slice, golden_apple, enchanted_golden_apple, golden_helmet, golden_chestplate, golden_leggings, golden_boots, golden_horse_armor, golden_nautilus_armor, golden_sword, golden_spear, golden_pickaxe, golden_shovel, golden_axe, golden_hoe, raw_gold, raw_gold_block, golden_dandelion
+#piglin_preferred_weapons: crossbow, golden_spear
+#piglin_repellents: soul_torch, soul_lantern, soul_campfire
+#piglin_safe_armor: golden_helmet, golden_chestplate, golden_leggings, golden_boots
+#pillager_preferred_weapons: crossbow
+#planks: oak_planks, spruce_planks, birch_planks, jungle_planks, acacia_planks, dark_oak_planks, pale_oak_planks, crimson_planks, warped_planks, mangrove_planks, bamboo_planks, cherry_planks
+#rabbit_food: carrot, golden_carrot, dandelion
+#rails: rail, powered_rail, detector_rail, activator_rail
+#redstone_ores: redstone_ore, deepslate_redstone_ore
+#repairs_chain_armor: iron_ingot
+#repairs_copper_armor: copper_ingot
+#repairs_diamond_armor: diamond
+#repairs_gold_armor: gold_ingot
+#repairs_iron_armor: iron_ingot
+#repairs_leather_armor: leather
+#repairs_netherite_armor: netherite_ingot
+#repairs_turtle_helmet: turtle_scute
+#repairs_wolf_armor: armadillo_scute
+#sand: sand, red_sand, suspicious_sand
+#saplings: oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, acacia_sapling, dark_oak_sapling, pale_oak_sapling, azalea, flowering_azalea, mangrove_propagule, cherry_sapling
+#shearable_from_copper_golem: poppy
+#sheep_food: wheat
+#shovels: diamond_shovel, stone_shovel, golden_shovel, netherite_shovel, wooden_shovel, iron_shovel, copper_shovel
+#shulker_boxes: shulker_box, white_shulker_box, orange_shulker_box, magenta_shulker_box, light_blue_shulker_box, yellow_shulker_box, lime_shulker_box, pink_shulker_box, gray_shulker_box, light_gray_shulker_box, cyan_shulker_box, purple_shulker_box, blue_shulker_box, brown_shulker_box, green_shulker_box, red_shulker_box, black_shulker_box
+#signs: oak_sign, spruce_sign, birch_sign, acacia_sign, jungle_sign, dark_oak_sign, pale_oak_sign, crimson_sign, warped_sign, mangrove_sign, bamboo_sign, cherry_sign
+#skeleton_preferred_weapons: bow
+#skulls: player_head, creeper_head, zombie_head, skeleton_skull, wither_skeleton_skull, dragon_head, piglin_head
+#slabs: #wooden_slabs, bamboo_mosaic_slab, stone_slab, smooth_stone_slab, stone_brick_slab, sandstone_slab, purpur_slab, quartz_slab, red_sandstone_slab, brick_slab, cobblestone_slab, nether_brick_slab, petrified_oak_slab, prismarine_slab, prismarine_brick_slab, dark_prismarine_slab, polished_granite_slab, smooth_red_sandstone_slab, mossy_stone_brick_slab, polished_diorite_slab, mossy_cobblestone_slab, end_stone_brick_slab, smooth_sandstone_slab, smooth_quartz_slab, granite_slab, andesite_slab, red_nether_brick_slab, polished_andesite_slab, diorite_slab, cut_sandstone_slab, cut_red_sandstone_slab, blackstone_slab, polished_blackstone_brick_slab, polished_blackstone_slab, cobbled_deepslate_slab, polished_deepslate_slab, deepslate_tile_slab, deepslate_brick_slab, mud_brick_slab, tuff_slab, polished_tuff_slab, tuff_brick_slab, resin_brick_slab, cinnabar_slab, polished_cinnabar_slab, cinnabar_brick_slab, sulfur_slab, polished_sulfur_slab, sulfur_brick_slab, cut_copper_slab, exposed_cut_copper_slab, weathered_cut_copper_slab, oxidized_cut_copper_slab, waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab
+#small_flowers: dandelion, open_eyeblossom, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, wither_rose, torchflower, closed_eyeblossom, golden_dandelion
+#smelts_to_glass: sand, red_sand
+#sniffer_food: torchflower_seeds
+#soul_fire_base_blocks: soul_sand, soul_soil
+#spears: diamond_spear, stone_spear, golden_spear, netherite_spear, wooden_spear, iron_spear, copper_spear
+#spruce_logs: spruce_log, spruce_wood, stripped_spruce_log, stripped_spruce_wood
+#stairs: #wooden_stairs, bamboo_mosaic_stairs, cobblestone_stairs, sandstone_stairs, nether_brick_stairs, stone_brick_stairs, brick_stairs, purpur_stairs, quartz_stairs, red_sandstone_stairs, prismarine_brick_stairs, prismarine_stairs, dark_prismarine_stairs, polished_granite_stairs, smooth_red_sandstone_stairs, mossy_stone_brick_stairs, polished_diorite_stairs, mossy_cobblestone_stairs, end_stone_brick_stairs, stone_stairs, smooth_sandstone_stairs, smooth_quartz_stairs, granite_stairs, andesite_stairs, red_nether_brick_stairs, polished_andesite_stairs, diorite_stairs, blackstone_stairs, polished_blackstone_brick_stairs, polished_blackstone_stairs, cobbled_deepslate_stairs, polished_deepslate_stairs, deepslate_tile_stairs, deepslate_brick_stairs, mud_brick_stairs, tuff_stairs, polished_tuff_stairs, tuff_brick_stairs, resin_brick_stairs, cinnabar_stairs, polished_cinnabar_stairs, cinnabar_brick_stairs, sulfur_stairs, polished_sulfur_stairs, sulfur_brick_stairs, cut_copper_stairs, exposed_cut_copper_stairs, weathered_cut_copper_stairs, oxidized_cut_copper_stairs, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs
+#stone_bricks: stone_bricks, mossy_stone_bricks, cracked_stone_bricks, chiseled_stone_bricks
+#stone_buttons: stone_button, polished_blackstone_button
+#stone_crafting_materials: cobblestone, blackstone, cobbled_deepslate
+#stone_tool_materials: cobblestone, blackstone, cobbled_deepslate
+#strider_food: warped_fungus
+#strider_tempt_items: #strider_food, warped_fungus_on_a_stick
+#sulfur_cube_archetype/bouncy: #planks, bamboo_mosaic, #logs, #bamboo_blocks
+#sulfur_cube_archetype/explosive: tnt
+#sulfur_cube_archetype/fast_flat: tube_coral_block, brain_coral_block, bubble_coral_block, fire_coral_block, horn_coral_block, dead_tube_coral_block, dead_brain_coral_block, dead_bubble_coral_block, dead_fire_coral_block, dead_horn_coral_block, sponge, wet_sponge, dried_kelp_block, #moss_blocks, resin_block, resin_bricks, chiseled_resin_bricks, melon, hay_block, pumpkin, carved_pumpkin, jack_o_lantern, ochre_froglight, pearlescent_froglight, verdant_froglight
+#sulfur_cube_archetype/fast_sliding: blue_ice, packed_ice, snow_block
+#sulfur_cube_archetype/high_resistance: soul_sand, soul_soil
+#sulfur_cube_archetype/hot: magma_block
+#sulfur_cube_archetype/light: #wool
+#sulfur_cube_archetype/regular: #concrete_powders, mud, muddy_mangrove_roots, packed_mud, coal_block, dirt, coarse_dirt, rooted_dirt, podzol, grass_block, clay, bone_block
+#sulfur_cube_archetype/slow_bouncy: amethyst_block, andesite, basalt, blackstone, bricks, calcite, chiseled_cinnabar, chiseled_deepslate, chiseled_nether_bricks, chiseled_polished_blackstone, chiseled_quartz_block, chiseled_red_sandstone, chiseled_sandstone, chiseled_stone_bricks, chiseled_sulfur, chiseled_tuff, chiseled_tuff_bricks, cinnabar, cinnabar_bricks, cobbled_deepslate, cobblestone, cracked_deepslate_bricks, cracked_deepslate_tiles, cracked_nether_bricks, cracked_polished_blackstone_bricks, cracked_stone_bricks, crimson_nylium, crying_obsidian, cut_red_sandstone, cut_sandstone, dark_prismarine, deepslate, deepslate_bricks, deepslate_tiles, diamond_block, diorite, dripstone_block, emerald_block, end_stone, end_stone_bricks, gilded_blackstone, glowstone, granite, lapis_block, mossy_cobblestone, mossy_stone_bricks, mud_bricks, nether_bricks, netherrack, observer, obsidian, polished_andesite, polished_basalt, polished_blackstone, polished_blackstone_bricks, polished_cinnabar, polished_deepslate, polished_diorite, polished_granite, polished_sulfur, polished_tuff, prismarine, prismarine_bricks, purpur_block, purpur_pillar, quartz_block, quartz_bricks, nether_quartz_ore, quartz_pillar, red_nether_bricks, red_sandstone, redstone_lamp, sandstone, sea_lantern, smooth_basalt, smooth_quartz, smooth_red_sandstone, smooth_sandstone, smooth_stone, stone, stone_bricks, sulfur, sulfur_bricks, tuff, tuff_bricks, warped_nylium, #concrete, #coal_ores, #lapis_ores, #redstone_ores, #diamond_ores, #emerald_ores, #terracotta, #glazed_terracotta
+#sulfur_cube_archetype/slow_flat: iron_block, gold_block, raw_copper_block, raw_gold_block, raw_iron_block, #gold_ores, #iron_ores, #copper_ores, netherite_block, ancient_debris, copper_block, exposed_copper, weathered_copper, oxidized_copper, waxed_copper_block, waxed_exposed_copper, waxed_weathered_copper, waxed_oxidized_copper, copper_bulb, exposed_copper_bulb, weathered_copper_bulb, oxidized_copper_bulb, waxed_copper_bulb, waxed_exposed_copper_bulb, waxed_weathered_copper_bulb, waxed_oxidized_copper_bulb, cut_copper, exposed_cut_copper, weathered_cut_copper, oxidized_cut_copper, waxed_cut_copper, waxed_exposed_cut_copper, waxed_weathered_cut_copper, waxed_oxidized_cut_copper, chiseled_copper, exposed_chiseled_copper, weathered_chiseled_copper, oxidized_chiseled_copper, waxed_chiseled_copper, waxed_exposed_chiseled_copper, waxed_weathered_chiseled_copper, waxed_oxidized_chiseled_copper
+#sulfur_cube_archetype/slow_sliding: brown_mushroom_block, red_mushroom_block, mushroom_stem, mycelium, #wart_blocks, shroomlight
+#sulfur_cube_archetype/sticky: honeycomb_block
+#sulfur_cube_food: slime_ball
+#sulfur_cube_swallowable: #sulfur_cube_archetype/bouncy, #sulfur_cube_archetype/regular, #sulfur_cube_archetype/slow_flat, #sulfur_cube_archetype/fast_flat, #sulfur_cube_archetype/light, #sulfur_cube_archetype/fast_sliding, #sulfur_cube_archetype/slow_sliding, #sulfur_cube_archetype/sticky, #sulfur_cube_archetype/high_resistance, #sulfur_cube_archetype/explosive, #sulfur_cube_archetype/hot, #sulfur_cube_archetype/slow_bouncy
+#swords: diamond_sword, stone_sword, golden_sword, netherite_sword, wooden_sword, iron_sword, copper_sword
+#terracotta: terracotta, white_terracotta, orange_terracotta, magenta_terracotta, light_blue_terracotta, yellow_terracotta, lime_terracotta, pink_terracotta, gray_terracotta, light_gray_terracotta, cyan_terracotta, purple_terracotta, blue_terracotta, brown_terracotta, green_terracotta, red_terracotta, black_terracotta
+#trapdoors: #wooden_trapdoors, iron_trapdoor, copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor
+#trim_materials: amethyst_shard, copper_ingot, diamond, emerald, gold_ingot, iron_ingot, lapis_lazuli, netherite_ingot, quartz, redstone, resin_brick
+#trimmable_armor: #foot_armor, #leg_armor, #chest_armor, #head_armor
+#turtle_food: seagrass
+#villager_picks_up: #villager_plantable_seeds, bread, wheat, beetroot
+#villager_plantable_seeds: wheat_seeds, potato, carrot, beetroot_seeds, torchflower_seeds, pitcher_pod
+#walls: cobblestone_wall, mossy_cobblestone_wall, brick_wall, prismarine_wall, red_sandstone_wall, mossy_stone_brick_wall, granite_wall, stone_brick_wall, nether_brick_wall, andesite_wall, red_nether_brick_wall, sandstone_wall, end_stone_brick_wall, diorite_wall, blackstone_wall, polished_blackstone_brick_wall, polished_blackstone_wall, cobbled_deepslate_wall, polished_deepslate_wall, deepslate_tile_wall, deepslate_brick_wall, mud_brick_wall, tuff_wall, polished_tuff_wall, tuff_brick_wall, resin_brick_wall, cinnabar_wall, polished_cinnabar_wall, cinnabar_brick_wall, sulfur_wall, polished_sulfur_wall, sulfur_brick_wall
+#warped_stems: warped_stem, stripped_warped_stem, warped_hyphae, stripped_warped_hyphae
+#wart_blocks: nether_wart_block, warped_wart_block
+#wither_skeleton_disliked_weapons: bow, crossbow
+#wolf_collar_dyes: #dyes
+#wolf_food: #meat, cod, cooked_cod, salmon, cooked_salmon, tropical_fish, pufferfish, rabbit_stew
+#wooden_buttons: oak_button, spruce_button, birch_button, jungle_button, acacia_button, dark_oak_button, pale_oak_button, crimson_button, warped_button, mangrove_button, bamboo_button, cherry_button
+#wooden_doors: oak_door, spruce_door, birch_door, jungle_door, acacia_door, dark_oak_door, pale_oak_door, crimson_door, warped_door, mangrove_door, bamboo_door, cherry_door
+#wooden_fences: oak_fence, acacia_fence, dark_oak_fence, pale_oak_fence, spruce_fence, birch_fence, jungle_fence, crimson_fence, warped_fence, mangrove_fence, bamboo_fence, cherry_fence
+#wooden_pressure_plates: oak_pressure_plate, spruce_pressure_plate, birch_pressure_plate, jungle_pressure_plate, acacia_pressure_plate, dark_oak_pressure_plate, pale_oak_pressure_plate, crimson_pressure_plate, warped_pressure_plate, mangrove_pressure_plate, bamboo_pressure_plate, cherry_pressure_plate
+#wooden_shelves: acacia_shelf, bamboo_shelf, birch_shelf, cherry_shelf, crimson_shelf, dark_oak_shelf, jungle_shelf, mangrove_shelf, oak_shelf, pale_oak_shelf, spruce_shelf, warped_shelf
+#wooden_slabs: oak_slab, spruce_slab, birch_slab, jungle_slab, acacia_slab, dark_oak_slab, pale_oak_slab, crimson_slab, warped_slab, mangrove_slab, bamboo_slab, cherry_slab
+#wooden_stairs: oak_stairs, spruce_stairs, birch_stairs, jungle_stairs, acacia_stairs, dark_oak_stairs, pale_oak_stairs, crimson_stairs, warped_stairs, mangrove_stairs, bamboo_stairs, cherry_stairs
+#wooden_tool_materials: #planks
+#wooden_trapdoors: acacia_trapdoor, birch_trapdoor, dark_oak_trapdoor, pale_oak_trapdoor, jungle_trapdoor, oak_trapdoor, spruce_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, bamboo_trapdoor, cherry_trapdoor
+#wool: white_wool, orange_wool, magenta_wool, light_blue_wool, yellow_wool, lime_wool, pink_wool, gray_wool, light_gray_wool, cyan_wool, purple_wool, blue_wool, brown_wool, green_wool, red_wool, black_wool
+#wool_carpets: white_carpet, orange_carpet, magenta_carpet, light_blue_carpet, yellow_carpet, lime_carpet, pink_carpet, gray_carpet, light_gray_carpet, cyan_carpet, purple_carpet, blue_carpet, brown_carpet, green_carpet, red_carpet, black_carpet
+#zombie_horse_food: red_mushroom

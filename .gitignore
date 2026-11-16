@@ -1,0 +1,7 @@
+# Minecraft-Server und generierte Daten (lokal neu erzeugbar, nicht weiterverteilen)
+26.2/server.jar
+26.2/libraries/
+26.2/versions/
+26.2/generated/
+26.2/logs/
+.claude/settings.local.json
